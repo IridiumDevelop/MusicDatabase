@@ -1,0 +1,22 @@
+{
+  "title": "幻想家",
+  "author": "张郁梓",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003tno7t4DJ8l5.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400000qXtGf3IdXap.m4a?guid=1957711&vkey=74B0127BB7AE12D06CBB0FBC203D1CE80758CEE7075167C47D259530EEA5480EE0EE31D1FA522EFBD20B2FF813DD64B63BE5D283AEB2ED0D__v2b9abbac&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=000qXtGf3IdXap",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "000qXtGf3IdXap",
+  "duration": 305,
+  "reportedAt": "2026-10-11T08:14:39.736Z",
+  "archivedAt": "2026-10-11T08:15:20.866440+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
