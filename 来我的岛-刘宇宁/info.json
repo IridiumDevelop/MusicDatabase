@@ -1,0 +1,22 @@
+{
+  "title": "来我的岛",
+  "author": "刘宇宁",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003mFnJ72MmdnQ.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400002hAbQf14wVkt.m4a?guid=8600163&vkey=E18F77EFDE8315FD063771D8C0E313B0D1DDE2285676910DAF6F4542BB497948D46B2485F19CBC73B2C78122EF985654AB71E77C8A322458__v2b94c2e1&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=002hAbQf14wVkt",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "002hAbQf14wVkt",
+  "duration": 224,
+  "reportedAt": "2026-10-11T08:10:48.251Z",
+  "archivedAt": "2026-10-11T08:11:37.660391+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "偷来月光",
+  "author": "尹昔眠",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004EJDSk1iydvL.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400002HqmUY2d32aT.m4a?guid=5966872&vkey=1596A3231B9421073EA24E3A4293B45220DA3777C8981006225AA4A2E4F5F1E27210502139BF447621928D5A47AB5BB87D575D4157AA6494__v2b9ab047&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=001tOG1918Cqjl",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "001tOG1918Cqjl",
+  "duration": 228,
+  "reportedAt": "2026-10-11T08:10:51.196Z",
+  "archivedAt": "2026-10-11T08:11:32.452821+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

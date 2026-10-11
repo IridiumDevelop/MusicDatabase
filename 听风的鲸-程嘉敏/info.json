@@ -1,0 +1,22 @@
+{
+  "title": "听风的鲸",
+  "author": "程嘉敏",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003s1mX71eet7D.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C4000030YijH1klIPS.m4a?guid=4036235&vkey=BE6A82E55D6B4BC9AEFF8499F0F8B07A3E0090B85A74C28611AB9F78C7ECE41C4D689DAB89ED2239865FB63B704481E4C3A7D17414548924__v21e2a1f1b&uin=&fromtag=120032&src=C4000015Blkw3kwuxm.m4a",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=0030YijH1klIPS",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "0030YijH1klIPS",
+  "duration": 238,
+  "reportedAt": "2026-10-11T08:10:48.484Z",
+  "archivedAt": "2026-10-11T08:11:37.153581+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
