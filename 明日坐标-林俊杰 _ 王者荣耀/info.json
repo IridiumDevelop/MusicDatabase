@@ -1,0 +1,22 @@
+{
+  "title": "明日坐标",
+  "author": "林俊杰 / 王者荣耀",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000AImqc0jgZOu.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400004BJRhU4g74fg.m4a?guid=2841501&vkey=B4DD3F966BC0D337D35BA7FCA3107FF39D498D7F6A7398DE2718F000F49846644679BAE1ED66588AFBE3FF5B2841832E57D5AF6C986A5A1F__v21e2a16c1&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=004BJRhU4g74fg",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "004BJRhU4g74fg",
+  "duration": 285,
+  "reportedAt": "2026-10-11T08:33:12.622Z",
+  "archivedAt": "2026-10-11T08:33:52.056074+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
