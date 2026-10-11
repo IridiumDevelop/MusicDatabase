@@ -1,0 +1,22 @@
+{
+  "title": "二十",
+  "author": "陈卓璇",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004WYYsW3R2by4.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400001orrQL2PXXYO.m4a?guid=88340&vkey=1971305F3B756694A6FA06CDE7C68B4A69C41B67856EAB7099A6F8B3AC7EDBB61CAFAD4FEA7F8BE0A74BB360F41BDE600B53D8E24FB507F1__v2b9abba8&uin=&fromtag=120032&src=C400000YyyZt3MymTR.m4a",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=0030MlY23TrAXV",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "0030MlY23TrAXV",
+  "duration": 303,
+  "reportedAt": "2026-10-11T08:20:43.605Z",
+  "archivedAt": "2026-10-11T08:21:27.746180+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
