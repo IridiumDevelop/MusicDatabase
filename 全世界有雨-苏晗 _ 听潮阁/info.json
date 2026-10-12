@@ -1,0 +1,22 @@
+{
+  "title": "全世界有雨",
+  "author": "苏晗 / 听潮阁",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001nBsLw3jcWT3.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400001CkeCt1lh2J8.m4a?guid=4266039&vkey=E49699C084A1916B10E25805FA90E74364E4A52A56572031B40631306A3A109E34EC24B2EA5751B697941787457599EFED52D934D6D024F7__v2b9abbae&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=002PoStX1dQeJq",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "002PoStX1dQeJq",
+  "duration": 174,
+  "reportedAt": "2026-10-12T06:53:10.313Z",
+  "archivedAt": "2026-10-12T06:53:53.434067+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
