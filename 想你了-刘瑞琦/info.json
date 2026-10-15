@@ -1,0 +1,22 @@
+{
+  "title": "想你了",
+  "author": "刘瑞琦",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003sdKoz388uHt.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400004IqHlK4Facgl.m4a?guid=6165881&vkey=E1DEE2AFED20F039FD70B5234A140D2AE07E33C896DEDEDFF96FC93A8000DDB5A6B035646EB469B6B1B790547CFF47BC6B06D70BC442E473__v21e2a16c1&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=004IqHlK4Facgl",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "004IqHlK4Facgl",
+  "duration": 230,
+  "reportedAt": "2026-10-15T04:09:55.929Z",
+  "archivedAt": "2026-10-15T04:10:56.518509+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
