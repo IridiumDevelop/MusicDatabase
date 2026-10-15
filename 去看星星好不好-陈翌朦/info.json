@@ -1,0 +1,22 @@
+{
+  "title": "去看星星好不好",
+  "author": "陈翌朦",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000OhDAT1IHcl5.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400001bN6YE4AgJ2H.m4a?guid=2599684&vkey=B866FEC7DD8EA842DF02E165654312DDA38A3A672F3C4F3E2D38C09211551DE9EC2AB0FCEC97D53C934538E4D6E59CB4E4BB586C304DB586__v2b9abbae&uin=&fromtag=120032&src=C400000e4wJS1Ld3l1.m4a",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=003lYvGU4NQI55",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "003lYvGU4NQI55",
+  "duration": 223,
+  "reportedAt": "2026-10-15T03:59:57.687Z",
+  "archivedAt": "2026-10-15T04:00:55.143319+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
