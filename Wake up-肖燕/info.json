@@ -1,0 +1,22 @@
+{
+  "title": "Wake up",
+  "author": "肖燕",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002t81xj2GKYE8.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400003vHNYn3A7NTZ.m4a?guid=3835967&vkey=56E4C2C6D38E126BD3EE2D7D8A65C9CB9737E8B669BBC753DFEEB759628F1E168F2393F813C2B14373448A3645BB1BE3397C2342BBBA58D3__v2b94c2e1&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=003vHNYn3A7NTZ",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "003vHNYn3A7NTZ",
+  "duration": 201,
+  "reportedAt": "2026-10-15T03:56:36.588Z",
+  "archivedAt": "2026-10-15T03:57:22.570701+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
