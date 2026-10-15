@@ -1,0 +1,22 @@
+{
+  "title": "你不必非要做任何",
+  "author": "曹于漫",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002SL87T1FxxSi.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400004YvT7c1mIAaI.m4a?guid=303648&vkey=013463193BE40FC723BE0D923CF074817EFD417A20BDC8FE3B1EAD461A40405151B935D42E4FE4103CBC2C9B6A45C84DBE47D2CE8679664B__v2b9abb9c&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=002oDxsv0qCrzW",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "002oDxsv0qCrzW",
+  "duration": 199,
+  "reportedAt": "2026-10-15T04:06:35.949Z",
+  "archivedAt": "2026-10-15T04:07:20.723892+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
