@@ -1,0 +1,22 @@
+{
+  "title": "回应",
+  "author": "池鱼",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000rd5Ah1zBSoq.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400001apRve4LKAmw.m4a?guid=6657195&vkey=67296B692B0FCF49ADD5C18B9D85D963E712DC7494538871C52E6DADCD29A114E945EFAD02C4105BA2B906D4F3F7F16E7CD988B44B5DA641__v2b9a899c&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=000eZLHL2E8a8x",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "000eZLHL2E8a8x",
+  "duration": 200,
+  "reportedAt": "2026-10-15T03:53:16.063Z",
+  "archivedAt": "2026-10-15T03:53:59.226438+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
