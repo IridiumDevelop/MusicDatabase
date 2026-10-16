@@ -1,0 +1,22 @@
+{
+  "title": "星河万里",
+  "author": "Rom邢锐",
+  "pic": "https://p4.music.126.net/QYOtbVhmJ-jpPzCPWqjZUw==/109951165965398413.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261016195404/6c2f04ba8359ffa6b96b2c1001353a38/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096479954/d772/334b/dd34/08377580c7f76289955a97a48e5c0ca1.mp3?vuutv=Yvk8SIQt9cLG0Nmoxb7dAjRyj/qC2WTsrWjKvL1v50b9PrjU6mj1KBpzHaw1jljbs6gJr5112bSd/5qgcvWla38+phHAmjgT7dnG+vZtgAo=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1843704418",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1843704418",
+  "duration": 212,
+  "reportedAt": "2026-10-16T11:29:05.192Z",
+  "archivedAt": "2026-10-16T11:30:01.484325+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
