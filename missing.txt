@@ -23,8 +23,8 @@ Shape of You-Ed Sheeran	lyric	no_url	0
 想你就写信 (Live)-周杰伦_李硕_张鑫	lyric	no_url	0		
 我的一个道姑朋友-双笙（陈元汐）	lyric	no_url	0		
 我的一个道姑朋友-程嘉敏	lyric	no_url	0		
-梦境之外	cover	no_url	0		
-梦境之外	lyric	no_url	0		
+梦境之外-段奥娟	cover	no_url	0		
+梦境之外-段奥娟	lyric	no_url	0		
 沉溺 (你让我的心不再结冰）-邹沛沛_Pank	lyric	no_url	0		
 沉溺(双女主版)-许知夏_甜Tiannnn	lyric	no_url	0		
 空心 (Live)-冯提莫	lyric	no_url	0		
