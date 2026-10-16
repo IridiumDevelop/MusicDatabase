@@ -1,0 +1,22 @@
+{
+  "title": "提笔",
+  "author": "赵希予（戏庭画）",
+  "pic": "https://p3.music.126.net/fPWEcCQ7VH64Y-w9FYg0fg==/109951168806118882.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261016222010/4c0636e61f9ff1cce302dc718da44d63/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/29724797304/85e3/770f/03ab/47aef82445b23170e7bef3d3a72754fd.mp3?vuutv=KUH0OzMogVUuv1rSg0TS91+7wWxHDEfK9j9H4j4IS+X/HxbMGdlw6uYaA4q6YwgWXnZIw9ZuhNqr4lE7jcw6koXUyM9RlW/zS+j4i3eEGSo=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2069942133",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2069942133",
+  "duration": 191,
+  "reportedAt": "2026-10-16T13:55:11.847Z",
+  "archivedAt": "2026-10-16T13:56:13.196440+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
