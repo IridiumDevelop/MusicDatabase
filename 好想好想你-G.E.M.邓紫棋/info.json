@@ -1,0 +1,22 @@
+{
+  "title": "好想好想你",
+  "author": "G.E.M.邓紫棋",
+  "pic": "https://p4.music.126.net/KTo5oSxH3CPA5PBTeFKDyA==/109951164581432409.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261016201309/114eacb5137fbc18e01b6cd67d512dd2/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096457460/9258/bf05/c442/fd44f6492b5a278a32dad31f7c16f80c.mp3?vuutv=LvmgbfMxL86DtHKIABVlonHuEEyYE2yufdgAd0oo4ZoJBSzT767uRq3bOgHyi6k5du74+lbGKPgzW/d+y1jmfN9EpMOQEMdfBauQ2l1qjys=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1412266089",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1412266089",
+  "duration": 204,
+  "reportedAt": "2026-10-16T11:48:10.241Z",
+  "archivedAt": "2026-10-16T11:49:04.768902+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.png",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
