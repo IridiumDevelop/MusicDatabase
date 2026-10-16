@@ -1,0 +1,22 @@
+{
+  "title": "Y and I（爱情有烟火OST）",
+  "author": "晚风碎语",
+  "pic": "https://p4.music.126.net/6GeNqrNdkKB2QoSLtzSF5w==/109951173392695857.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://vercel-meting-api.musifei.org/api?server=netease&type=url&id=3395578391",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=3395578391",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "3395578391",
+  "duration": 185,
+  "reportedAt": "2026-10-16T13:32:07.361Z",
+  "archivedAt": "2026-10-16T13:35:11.686809+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
