@@ -1,0 +1,22 @@
+{
+  "title": "我在意的（爱情有烟火OST）",
+  "author": "晚风碎语",
+  "pic": "https://p4.music.126.net/6GeNqrNdkKB2QoSLtzSF5w==/109951173392695857.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261016220014/21973d4c77002af3c75aa721237e6daa/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/80901931422/e39f/a3cb/b9c2/47c1dad835aff6e05d6257dedb8e688c.mp3?vuutv=ez4rN9CTVn/1I9KAFn7thOeYvZK8Bc5CYls3Qu2k6XJ4RMSrlUajjX3H0wShnpD/fu42C1ss294qjDxx+JyECnf540INp3YfjzDW7q39zsQ=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=3394175468",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "3394175468",
+  "duration": 171,
+  "reportedAt": "2026-10-16T13:35:15.324Z",
+  "archivedAt": "2026-10-16T13:36:19.134772+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
