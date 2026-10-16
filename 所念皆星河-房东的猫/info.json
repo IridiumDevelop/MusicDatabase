@@ -1,0 +1,22 @@
+{
+  "title": "所念皆星河",
+  "author": "房东的猫",
+  "pic": "https://p3.music.126.net/JtevaRk1N7ecpmwZCIvwzQ==/109951165293262893.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261016194204/a6d489b8bb0fb1e14ffc301712055411/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096560811/acf2/b0f0/5dbe/0376c96dd20c12244d6aca07c96a8085.mp3?vuutv=P/8JYXalosBVOj9px0nim/SP8QdoiSp/JUnsXSzZcdm3KXOAMAajQwsI+QnIyjvgNg5qiSTgOgRZbrnXiWlF9MXWBaxO1pa+BmbY+WSnPgQ=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1476239407",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1476239407",
+  "duration": 244,
+  "reportedAt": "2026-10-16T11:17:05.678Z",
+  "archivedAt": "2026-10-16T11:18:00.447845+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
