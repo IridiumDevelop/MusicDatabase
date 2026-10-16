@@ -1,0 +1,22 @@
+{
+  "title": "我叫长安，你叫故里",
+  "author": "尹昔眠 / 小田音乐社",
+  "pic": "https://p4.music.126.net/CweKugkw_hFfinnJtK_xIA==/109951165701973402.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m8.music.126.net/20261016194611/9d5ad7d28ba9126564ccd134f1d14cc2/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14055045844/dcac/dfa8/9985/1343957e75331eb245f6563658731b33.mp3?vuutv=RtMVZghg0TYcF/e3Z7sDQSU/RtAaXO7bWeaaAjSl0U3deQoiQIlS5cFUacQI/5+GIeFnBKNtldqevF6Cu3K0F6ZI9CHkod0e1IxOiYDnAWg=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1818343748",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1818343748",
+  "duration": 210,
+  "reportedAt": "2026-10-16T11:21:12.165Z",
+  "archivedAt": "2026-10-16T11:22:03.776901+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
