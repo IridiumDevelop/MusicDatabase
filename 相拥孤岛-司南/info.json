@@ -1,0 +1,22 @@
+{
+  "title": "相拥孤岛",
+  "author": "司南",
+  "pic": "https://p4.music.126.net/GwGp8uvwTLSDE8UtEg2R7Q==/109951168829911745.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261016221425/3e75b1eac94f9519010ab3e104a3829a/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/29838153754/d30c/029e/b951/ffc4b7cf63d8874f9d2a624d7e409a6b.mp3?vuutv=zcuO0TA/BwdP22qqEjQwfMsMXgDhXWrNxUBR7zhTxLfXTHqnhqYNhQPc3UONKmmS1kMNOQBnrZWrz4BgAiR+Ayed6JDOo/OYrFtWCi5P+60=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2071943544",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2071943544",
+  "duration": 199,
+  "reportedAt": "2026-10-16T13:49:26.725Z",
+  "archivedAt": "2026-10-16T13:50:32.583556+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.png",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
