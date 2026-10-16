@@ -1,0 +1,22 @@
+{
+  "title": "出山",
+  "author": "花粥 / 王胜娚",
+  "pic": "https://p3.music.126.net/xUAfdMHdXhu3BmO4g8nOYA==/109951163573311341.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://vercel-meting-api.musifei.org/api?server=netease&type=url&id=1313354324",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1313354324",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1313354324",
+  "duration": 200,
+  "reportedAt": "2026-10-16T11:25:43.245Z",
+  "archivedAt": "2026-10-16T11:26:38.328290+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
