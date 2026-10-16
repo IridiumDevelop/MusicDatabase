@@ -1,0 +1,22 @@
+{
+  "title": "Good Things",
+  "author": "NINE PERCENT",
+  "pic": "https://p3.music.126.net/2bTdDjBcJ1B0SXnFP-NDGQ==/109951169146286029.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261016201406/d6e04d8a0b62a88300357590293feb04/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/31987602761/dca5/89e2/d481/54fbd84bda402777bfd5eb11d835cfe7.mp3?vuutv=1/4RtN3BWKjr5qRhJUmk10f7WZuC53cmR/1cPvVpgzFnBsIbwGRotbyLFvzvNCcKjuIyJLNhbA2KFQZ1SWjwxAnqaUfF63Sd34F2zcypioU=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2106744532",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2106744532",
+  "duration": 299,
+  "reportedAt": "2026-10-16T11:49:09.364Z",
+  "archivedAt": "2026-10-16T11:50:03.868294+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.png",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
