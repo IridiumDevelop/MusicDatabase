@@ -1,0 +1,22 @@
+{
+  "title": "花束",
+  "author": "段奥娟",
+  "pic": "https://p3.music.126.net/O1ZFORKf-BDSrsacphHQfA==/109951169888977713.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261016221643/16907c6fb979d7edc555c5657d9caba2/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/45374815259/8208/112d/baaa/8293c7d63e0752d37000727f730a7369.mp3?vuutv=J5xsePHmQ5ev1az1eSFWjh8hJXjSiXXSl4SXyaA+q7ySWmD0myHpctHI/LRnUcxpq5P/1lOp5nT7vcfhWFGA902EeiegXNvQUq82aPyTMus=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2619052752",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2619052752",
+  "duration": 206,
+  "reportedAt": "2026-10-16T13:51:45.215Z",
+  "archivedAt": "2026-10-16T13:52:57.856083+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
