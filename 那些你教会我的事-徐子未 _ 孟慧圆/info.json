@@ -1,0 +1,22 @@
+{
+  "title": "那些你教会我的事",
+  "author": "徐子未 / 孟慧圆",
+  "pic": "https://p4.music.126.net/ZZolJskFBDxwiszY8I16YQ==/109951170201810564.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261017180440/054e8331756ecfa537c73590062e10b7/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57820733912/90c4/6f8a/b49b/76d04175ab109b0d7e9a49acc936bbbf.mp3?vuutv=4GAYSmmaZazECuLznbvpnriSOp+TRPEKqS08j6iPyoU2CAtXFsCh6I3HSORx62Z9hDMbhyPrLeq/9MulueSL2GoHbcSVdveoioUGx869wsk=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2651535466",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2651535466",
+  "duration": 273,
+  "reportedAt": "2026-10-17T09:39:41.052Z",
+  "archivedAt": "2026-10-17T09:40:46.510590+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
