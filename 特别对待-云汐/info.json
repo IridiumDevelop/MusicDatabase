@@ -1,0 +1,22 @@
+{
+  "title": "特别对待",
+  "author": "云汐",
+  "pic": "https://p3.music.126.net/L5PlQRRnLN0Di297YMtUlw==/109951173696564019.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261017092559/70bd10fb8f794e10686a38eacd32b786/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28715218237/ede9/fd80/6e00/eee21c4e3e5891d4204e8bbf32faf205.mp3?vuutv=edULfhcv/i7oJfHVWnLuM0nhXPtvuxH0XVXbYVdBrfcBIfxKXc1bREfUkzfRZhBqFsiB6zkTRqUEGumteHPLfZq3sH48cfDhr18eA4A0Zz4=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2055281341",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2055281341",
+  "duration": 199,
+  "reportedAt": "2026-10-17T01:01:00.680Z",
+  "archivedAt": "2026-10-17T01:01:58.927677+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
