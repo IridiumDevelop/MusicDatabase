@@ -1,0 +1,22 @@
+{
+  "title": "两个自己",
+  "author": "G.E.M.邓紫棋",
+  "pic": "https://p4.music.126.net/ktAw4FNwGL4owGZW_5227w==/109951166669987126.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m8.music.126.net/20261017173831/6bfbebf657b9b78b7ab55a2b5ba6a11b/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14054249657/36c6/a855/5a65/930d54fbb1ff9037a99a67e1262ef034.mp3?vuutv=OCeyy9wiclQhy27Y6p4GCulSIM/MnHRqadjWubh46KpCSNU67NJ3oAZwFLn4JsNsPsCCo0hx91vVI9lzP67TaIBRr3IIxWubRR9VDTlYK14=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1899045414",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1899045414",
+  "duration": 196,
+  "reportedAt": "2026-10-17T09:13:33.060Z",
+  "archivedAt": "2026-10-17T09:14:41.288164+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
