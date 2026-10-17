@@ -1,0 +1,22 @@
+{
+  "title": "训犬",
+  "author": "单循",
+  "pic": "https://p4.music.126.net/ML1w5bu3dMLy6r0BAYq-TQ==/109951170100296526.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261017092926/cd034a8f268707e9b4998c182fc400af/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/56139427435/7116/3775/78b8/42067a1316fb0fc09d9286db8d47e994.mp3?vuutv=1M7RFQoGky03oZqsHfwt+nAwLbCC2jatCqyFCbi1LpbYkFlkvzf8tBWCsOdRNxNNhaKyj5Ua9bp+SEe0gWRrlxuc9OHPoLB8E4tuocxM3+c=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2641924093",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2641924093",
+  "duration": 197,
+  "reportedAt": "2026-10-17T01:04:26.929Z",
+  "archivedAt": "2026-10-17T01:05:33.575275+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
