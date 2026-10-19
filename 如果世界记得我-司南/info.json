@@ -1,0 +1,22 @@
+{
+  "title": "如果世界记得我",
+  "author": "司南",
+  "pic": "https://p4.music.126.net/UiCYxwlxhaQLBP0Y74RIcQ==/109951169479309437.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261019131714/dceb7be905815511738c52e34b970243/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/35122815962/7569/f92f/b6c4/3d16231c1f66d777d98973b55fdd70aa.mp3?vuutv=UZQz/CMGDa5J+3gNtHGNryOAH4FceCbmdeXGYV7ZjFiZfu6CT6bS363qh/cTu30srxUeaH8TAJ8UvX32oepZYROXIUzFlO34q06SWrPL9ME=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2144350286",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2144350286",
+  "duration": 226,
+  "reportedAt": "2026-10-19T04:52:15.206Z",
+  "archivedAt": "2026-10-19T04:53:25.672820+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
