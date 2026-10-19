@@ -1,0 +1,22 @@
+{
+  "title": "Burning",
+  "author": "Maria Arredondo",
+  "pic": "https://p3.music.126.net/2lzyBE65PgGoW2JgVxlZiQ==/109951168445942868.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m8.music.126.net/20261019131302/2368dc477a14cfc22453c8e6551a459d/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/3035996577/43df/3636/27e1/121da15021b26ddb95dd480c795ddf9a.mp3?vuutv=mGh70y0rYqwe+Eh87sRMSw8wiK8/JY7T0GnrFQEMrG/v52/0gObUahEbsAjNw/q8LE2uoe/5Ln0gGvFd4oIcx36e8qTWd94FwtbbNCBNF/0=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=3026472",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "3026472",
+  "duration": 243,
+  "reportedAt": "2026-10-19T04:48:04.026Z",
+  "archivedAt": "2026-10-19T04:49:10.850153+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
