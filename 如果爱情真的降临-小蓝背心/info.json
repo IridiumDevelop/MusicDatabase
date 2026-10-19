@@ -1,0 +1,22 @@
+{
+  "title": "如果爱情真的降临",
+  "author": "小蓝背心",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000rnzGD3ThCt9.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400000iM6Qu3zQXmy.m4a?guid=7940801&vkey=2176415D1D325A34D25B2AB811FBCC427DC482EA8BE87AC7E9A185F646C135354358EBC56D1BEA6A73E2DE3F619052C9AA717E9A05A2598E__v2b9abbae&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=000iM6Qu3zQXmy",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "000iM6Qu3zQXmy",
+  "duration": 200,
+  "reportedAt": "2026-10-19T04:30:40.500Z",
+  "archivedAt": "2026-10-19T04:31:49.362349+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "永远只是瞬间",
+  "author": "小蓝背心",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000mL0XB1iwqKh.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400003kzOh10WwWZj.m4a?guid=4242919&vkey=8D4D672BE0AF8A7955BAACA93E4FCAB575937D9AD28B3FDDC51E3BF0A9D2616C35582297B55BF086D33C9EAC659F66C8FEA6BE981A4A7F93__v2b9a899c&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=003kzOh10WwWZj",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "003kzOh10WwWZj",
+  "duration": 192,
+  "reportedAt": "2026-10-19T04:30:44.456Z",
+  "archivedAt": "2026-10-19T04:31:53.521398+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
