@@ -1,0 +1,22 @@
+{
+  "title": "年少心动雨季",
+  "author": "黄霄雲",
+  "pic": "https://p3.music.126.net/VZBj5FRD5zQpvkquGkBYEw==/109951173224181614.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261019183103/1e379850946ff2d5a05658aee0e4f5fe/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/80236069680/9e17/776b/2dca/0fe9eff759ee994d793704ec2b3925e1.mp3?vuutv=krYsOF+ulcwBl5dAgFqr1I2lUuLjVksGJ7FfT49NjjAyA+bvMVDwgugzsIWcCzJA2PpIJA6VhIUi05D6UbBIO2A1Eo/vx1WhqC75K5vd2zo=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=3382281789",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "3382281789",
+  "duration": 266,
+  "reportedAt": "2026-10-19T10:06:04.225Z",
+  "archivedAt": "2026-10-19T10:07:25.809475+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
