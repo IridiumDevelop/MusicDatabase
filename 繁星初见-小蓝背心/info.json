@@ -1,0 +1,22 @@
+{
+  "title": "繁星初见",
+  "author": "小蓝背心",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003A1wKR2uxKs1.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400000MEUTS1gQF8U.m4a?guid=5313580&vkey=4CA23DDE1E2535F1187A2F1906EAD4ADBB5D7BD25679F2B8E1C4C1CEE4AC721519ADE35D5B05D27A7C05ABC13E714AD4D65E0B1AF8FB56BC__v2b9abb9c&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=000MEUTS1gQF8U",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "000MEUTS1gQF8U",
+  "duration": 235,
+  "reportedAt": "2026-10-19T04:30:57.003Z",
+  "archivedAt": "2026-10-19T04:33:20.608018+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "错拍",
+  "author": "小田音乐社 / 南栖",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003oqZyl3WWhmI.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400003zSxMI0uVZXK.m4a?guid=3150301&vkey=54A6EEA8A1379ADD401D583B5B0E67F312251DCF396CC384C9ECE685F8471882EEDE6BF6FA2EB2D93746730214C5D1F62F28213DD1E7C78C__v21e2a1f1b&uin=&fromtag=120032&src=C4000007D7lP0prBJo.m4a",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=002FiljV4Ujuwx",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "002FiljV4Ujuwx",
+  "duration": 192,
+  "reportedAt": "2026-10-19T04:31:05.743Z",
+  "archivedAt": "2026-10-19T04:33:25.541618+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

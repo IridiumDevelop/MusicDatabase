@@ -1,0 +1,22 @@
+{
+  "title": "贴心",
+  "author": "梁咏琪",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003mTx4M2vjsxl.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C4000042LLtJ3DmpFZ.m4a?guid=8253615&vkey=D6E5C4A073D0D894494D1E916FB61736949C6729A5FA9A3BC8786908DF79EECB272E48B53520C6988749F404A71A987AA105B0477E0AB806__v2b9ab1c2&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=0042LLtJ3DmpFZ",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "0042LLtJ3DmpFZ",
+  "duration": 204,
+  "reportedAt": "2026-10-19T04:31:35.172Z",
+  "archivedAt": "2026-10-19T04:33:21.925817+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "婚纱梦",
+  "author": "池鱼",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003zDhTs2RXoqM.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C4000019sR5O25tYnI.m4a?guid=2573015&vkey=E0594EDCD703D5E1ACD92B2F7AA8ED04A3F6EE2E6EEA74132A6A1045DCAA92BB62458F943AC146570F67B197D718EFEE5A87F24DE3D904EF__v2ba82102&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=0019sR5O25tYnI",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "0019sR5O25tYnI",
+  "duration": 229,
+  "reportedAt": "2026-10-19T04:31:57.171Z",
+  "archivedAt": "2026-10-19T04:33:12.498766+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

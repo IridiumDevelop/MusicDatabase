@@ -1,0 +1,22 @@
+{
+  "title": "一千万公里",
+  "author": "杜宣达",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004bxJM84RCZZn.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400000pmV2x0ag2um.m4a?guid=5078938&vkey=7CCB09271D40CA1EF7954354D436E56EC3ABA760BEDD64B64FFDC31CF7264B8AE7B2CFB9515005276C85B3C163B6447458BB7D6BEDC74B5C__v2b9abba8&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=000pmV2x0ag2um",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "000pmV2x0ag2um",
+  "duration": 185,
+  "reportedAt": "2026-10-19T04:31:31.839Z",
+  "archivedAt": "2026-10-19T04:33:02.757141+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

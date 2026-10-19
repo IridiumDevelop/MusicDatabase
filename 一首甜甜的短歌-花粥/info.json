@@ -1,0 +1,22 @@
+{
+  "title": "一首甜甜的短歌",
+  "author": "花粥",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002kInOX4VeNSP.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400001LJIv81FEUOs.m4a?guid=46802&vkey=78FACA867F45F48517B29441C82C2A7A3980417CB87AE791853D2BD757E7FBD5A6E406A4DF8CA8D9C1D076DE23A9501B0E04029C4A34E342__v2b9abb9c&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=001LJIv81FEUOs",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "001LJIv81FEUOs",
+  "duration": 121,
+  "reportedAt": "2026-10-19T04:31:23.945Z",
+  "archivedAt": "2026-10-19T04:33:03.285328+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

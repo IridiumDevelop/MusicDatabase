@@ -1,0 +1,22 @@
+{
+  "title": "我喜欢你与你无关",
+  "author": "刘芮",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003hFDKt4SxfFI.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C40000380nig1wTCz9.m4a?guid=5647031&vkey=96E349E331F15CEDDC9A2F4AA558046B2E173CB619EE1FD863596E63B25C6E68BBB7269FFC468C309B45AB5BE5E1744633A6F18A9E61B44A__v2b9abbac&uin=&fromtag=120032&src=C400003yaxQQ3qdtEF.m4a",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=000NFFQ43Xr28G",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "000NFFQ43Xr28G",
+  "duration": 200,
+  "reportedAt": "2026-10-19T04:31:16.635Z",
+  "archivedAt": "2026-10-19T04:33:13.587995+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

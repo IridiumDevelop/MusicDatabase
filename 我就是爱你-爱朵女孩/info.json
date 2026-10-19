@@ -1,0 +1,22 @@
+{
+  "title": "我就是爱你",
+  "author": "爱朵女孩",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000bEfJy3CdLTz.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C4000048RTw33qXmvW.m4a?guid=2619687&vkey=26EE738763179CED6B861DEC6C25FB69EAE6692197733F65200C0FBD1695E42B010E3F494281D0DC486E397AD8FA55E769E6490ACF6725A2__v21e2a1f1b&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=0012qJlf1TpshO",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "0012qJlf1TpshO",
+  "duration": 218,
+  "reportedAt": "2026-10-19T04:31:20.781Z",
+  "archivedAt": "2026-10-19T04:33:17.021678+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

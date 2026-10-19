@@ -1,0 +1,22 @@
+{
+  "title": "多年以后",
+  "author": "韩潇Es",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000027Qh0M0qSOm9.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C4000017ygS23J7off.m4a?guid=5335430&vkey=8070723D5B8902EC65B0E3A523DCBA20F1E73B8D1ED4437050395F162A77BBAA5D76E91B2BE9A86B080BE9E9B404A504FC367517A42983DD__v2b9ab226&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=004YJWsH41nGyK",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "004YJWsH41nGyK",
+  "duration": 216,
+  "reportedAt": "2026-10-19T04:31:11.315Z",
+  "archivedAt": "2026-10-19T04:33:08.239429+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
