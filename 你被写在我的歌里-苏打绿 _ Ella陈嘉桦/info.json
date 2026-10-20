@@ -1,0 +1,22 @@
+{
+  "title": "你被写在我的歌里",
+  "author": "苏打绿 / Ella陈嘉桦",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000037jLBs1xCAmo.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C4000019WwOR2xtJWi.m4a?guid=6392644&vkey=EE94CD258719F2EAF036A12281D56A862D9E3965329FC80941F32CA11C6606716DF4B5D04AEA356ED7CB9C0CF9952125494C368FC59609D6__v2ba8212e&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=001MXkYh4E5iBh",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "001MXkYh4E5iBh",
+  "duration": 276,
+  "reportedAt": "2026-10-20T14:18:05.327Z",
+  "archivedAt": "2026-10-20T14:19:24.122187+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
