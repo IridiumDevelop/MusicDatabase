@@ -1,0 +1,22 @@
+{
+  "title": "如果的事 (氛围版)",
+  "author": "赵乃吉",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003DhNSt3co9JR.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400001xnF85327UsY.m4a?guid=3735723&vkey=4AD58C46D6B15FC20A20F3CA945438CA7CC4D17B52F1B048F3A36A127E76414766E45F6403180BB657DEF279A48ABBE4026FE3EC46609EF8__v2b9ab1c2&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=0034VHq1089d9Q",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "0034VHq1089d9Q",
+  "duration": 225,
+  "reportedAt": "2026-10-20T14:30:22.041Z",
+  "archivedAt": "2026-10-20T14:46:31.687433+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
