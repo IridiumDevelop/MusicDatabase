@@ -1,0 +1,22 @@
+{
+  "title": "等到十三月",
+  "author": "陈小满",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000382EgT0QAmWE.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400000aOokZ3zSAhy.m4a?guid=439436&vkey=BDA777B66C114DB89B54C10942FC0110327F03EB81A3044BDE92381A5D3A51BC9ADE62C11F2EBEFE4CE1504CE525BAF2FB3690F7C565E60C__v21e2a1605&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=000aOokZ3zSAhy",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "000aOokZ3zSAhy",
+  "duration": 203,
+  "reportedAt": "2026-10-20T14:14:41.242Z",
+  "archivedAt": "2026-10-20T14:15:59.322725+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
