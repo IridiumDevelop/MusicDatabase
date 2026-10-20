@@ -1,0 +1,22 @@
+{
+  "title": "Fly Away",
+  "author": "TheFatRat / Anjulie",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000202MwY3sXGPC.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400003CL8g31F6EKz.m4a?guid=9140509&vkey=36A83F1B4D1C0FEC882AF54A6872256EADA15BB9DA945827AF945400394034AAD312B1FF94F56B3F86F043FE6A5CA4759AC64ECA51FD42CB__v21e2a1f1b&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=002zjltX3y60xe",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "002zjltX3y60xe",
+  "duration": 194,
+  "reportedAt": "2026-10-20T14:27:05.064Z",
+  "archivedAt": "2026-10-20T14:28:29.192268+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
