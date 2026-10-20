@@ -1,0 +1,22 @@
+{
+  "title": "忘川书",
+  "author": "有声有社",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003hoKlW0tL0pb.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400000a36PC2jnglw.m4a?guid=4781996&vkey=A6086EDD3B20D014BFCE27D1A0BA32C730655393BA49339FCF46BA3688A276C0933EEA7B6D8CF3D5AD5C1F86B0B3DFB60D023F91C048E7A7__v2ba83d90&uin=&fromtag=120032&src=C400001ztddn3JXA9r.m4a",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=000a36PC2jnglw",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "000a36PC2jnglw",
+  "duration": 207,
+  "reportedAt": "2026-10-20T14:22:42.476Z",
+  "archivedAt": "2026-10-20T14:24:23.053566+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
