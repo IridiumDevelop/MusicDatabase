@@ -1,0 +1,22 @@
+{
+  "title": "命运回响",
+  "author": "海诺 / 王者荣耀",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004Xb1e70FrddV.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400003cYfNu3d7fqj.m4a?guid=212245&vkey=33AFD861508E9BC4F7FB4D8AE424E125F99FD2C9599420746CDC42B63DB00CD8C3472FE497EACABEFB2E2C396D0738946AB61BE05C1F9650__v2b9abba8&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=002JMJyR0e9F49",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "002JMJyR0e9F49",
+  "duration": 291,
+  "reportedAt": "2026-10-20T14:09:49.003Z",
+  "archivedAt": "2026-10-20T14:11:04.902286+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

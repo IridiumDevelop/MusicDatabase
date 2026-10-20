@@ -1,0 +1,22 @@
+{
+  "title": "野柠檬",
+  "author": "庄东茹",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003R9eNW3WGbEp.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C4000019OeaL0Txa20.m4a?guid=6520566&vkey=6BE630CFF1EA17A57F4680187DDD0D6EDAFB976ACE7E22A86ED873DAEC3D6AA3F8D984F0C2087F15E80AA9B6A3AC92F4998C5C65AC5A740D__v2b9ab224&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=0004UwRC2FDPha",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "0004UwRC2FDPha",
+  "duration": 214,
+  "reportedAt": "2026-10-20T14:09:46.629Z",
+  "archivedAt": "2026-10-20T14:11:06.475611+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
