@@ -1,0 +1,22 @@
+{
+  "title": "摘星的人",
+  "author": "大柯",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000045Li744aGCU0.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400003YGewJ4Z3wKf.m4a?guid=9191519&vkey=DC13E0522140BFDD26A298BA5AD45EC53C1F2F51B91151D0A02EDCF38207B68BF8D2F912A5D038B1FC20066F1375D710ED23E4B9AE97A407__v2b9aacd2&uin=&fromtag=120032&src=C400001YQRSt2JaUZ5.m4a",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=002crxOo2twnzB",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "002crxOo2twnzB",
+  "duration": 212,
+  "reportedAt": "2026-10-20T10:00:27.873Z",
+  "archivedAt": "2026-10-20T10:01:50.311348+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
