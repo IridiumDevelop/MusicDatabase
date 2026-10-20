@@ -1,0 +1,22 @@
+{
+  "title": "一半柠檬",
+  "author": "祈Inory",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001roflk4cLkd0.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400004O6YAM3fWw3p.m4a?guid=8094213&vkey=EC46803C3C0C74CB81B3F2A0C2C0E2086E07B2F512D9BACBD4BB62E88A639BD2ADE49115575FD297C07B65A907AC491EB3D7A48295BA8677__v2b9aba4b&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=003ew0Nn2XOsuh",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "003ew0Nn2XOsuh",
+  "duration": 248,
+  "reportedAt": "2026-10-20T10:04:00.440Z",
+  "archivedAt": "2026-10-20T10:05:10.352026+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
