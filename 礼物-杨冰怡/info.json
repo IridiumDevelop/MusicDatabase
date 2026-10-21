@@ -1,0 +1,22 @@
+{
+  "title": "礼物",
+  "author": "杨冰怡",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003453in40i15K.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C4000028zqZk2i5QG7.m4a?guid=3338986&vkey=E9D7D1EECC88A4D89B173303AB8AC17D0B14B9D2F1A30C3CA0E2FFD752F6472F3CDBC085DEFDE85237AEBA7969C647F287CE6A6143F305C7__v2b9a899c&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=0028zqZk2i5QG7",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "0028zqZk2i5QG7",
+  "duration": 273,
+  "reportedAt": "2026-10-21T09:05:02.673Z",
+  "archivedAt": "2026-10-21T09:06:21.502771+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
