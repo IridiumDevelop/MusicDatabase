@@ -1,0 +1,28 @@
+{
+  "title": "我不懂",
+  "author": "有声有社",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 241.467,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.488538+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "我不懂-有声有社.mp3",
+    "originalSha256": "5f22792872f9b6c4fd45652aecfe08744bf911ef4015e1be047a69d91a232b67"
+  }
+}

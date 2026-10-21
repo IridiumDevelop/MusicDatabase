@@ -1,0 +1,28 @@
+{
+  "title": "蜜柚恋",
+  "author": "雷米",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 209.895,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.586469+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "蜜柚恋-雷米.mp3",
+    "originalSha256": "4f97624e4dd0a0c3c5b14527d6541f06f024faf92d5399e4191e2f195fe68517"
+  }
+}

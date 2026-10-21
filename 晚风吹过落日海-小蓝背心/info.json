@@ -1,0 +1,28 @@
+{
+  "title": "晚风吹过落日海",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 202.733,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.515232+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "晚风吹过落日海-小蓝背心.mp3",
+    "originalSha256": "89f182f39fb831817b46521b76dfd1e51043de6a690cb01c55b85ec307ad4e59"
+  }
+}

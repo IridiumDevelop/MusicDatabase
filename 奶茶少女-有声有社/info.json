@@ -1,0 +1,28 @@
+{
+  "title": "奶茶少女",
+  "author": "有声有社",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 212.879,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.439067+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "奶茶少女-有声有社.mp3",
+    "originalSha256": "50da0e30ae232cd175f2149a62346252556f03da53f702c93090f0cb47cc2531"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "半熟半生",
+  "author": "小田音乐社 / 尹昔眠",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 215.711,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.429981+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "半熟半生-小田音乐社 _ 尹昔眠.mp3",
+    "originalSha256": "27730f40f791931c0ec4b1364e6d789739ed84701cc5bc749fc9f45a77bab986"
+  }
+}

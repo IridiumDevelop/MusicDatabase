@@ -1,0 +1,28 @@
+{
+  "title": "棉花糖",
+  "author": "Sasablue",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 232.041,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.532394+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "棉花糖-Sasablue.mp3",
+    "originalSha256": "73e0b7a8aeb2f8bab576c3e1b7f787d5d7e102b049fa2eb00fed2dc82a2e4850"
+  }
+}

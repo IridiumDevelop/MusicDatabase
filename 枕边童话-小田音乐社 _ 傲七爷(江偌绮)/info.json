@@ -1,0 +1,28 @@
+{
+  "title": "枕边童话",
+  "author": "小田音乐社 / 傲七爷(江偌绮)",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 190.955,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.523778+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "枕边童话-小田音乐社 _ 傲七爷(江偌绮).mp3",
+    "originalSha256": "a38f6eec38722825b294f005c5816b8224253f0d89280d213ccce26601cdd064"
+  }
+}

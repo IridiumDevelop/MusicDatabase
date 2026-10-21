@@ -1,0 +1,28 @@
+{
+  "title": "Natural",
+  "author": "Imagine Dragons",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 189.467,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.339890+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "Natural-Imagine Dragons.mp3",
+    "originalSha256": "a9f9216f2cf09dd800d10610576c9abfd4e0c174dc2f43db16dc0905d72c1980"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "那些年",
+  "author": "Uu (刘梦妤)",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 295.325,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.614141+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "那些年-Uu (刘梦妤).mp3",
+    "originalSha256": "bb91b8975aac517fdc6b35ae3072d8ee91becbb27a4bca4ad62dd1cfa1f6f47c"
+  }
+}

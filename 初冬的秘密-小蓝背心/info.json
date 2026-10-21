@@ -1,0 +1,28 @@
+{
+  "title": "初冬的秘密",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 197.521,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.413001+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "初冬的秘密-小蓝背心.mp3",
+    "originalSha256": "8072d097faa2a0b05a6129075c7ec96e3e3ef1c3a518500c65a791c4e718e30e"
+  }
+}
