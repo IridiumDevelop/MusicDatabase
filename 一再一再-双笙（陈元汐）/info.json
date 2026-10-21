@@ -1,0 +1,22 @@
+{
+  "title": "一再一再",
+  "author": "双笙（陈元汐）",
+  "pic": "https://p4.music.126.net/l1fIuwOmawFk5AvN-YDmmw==/109951170773626973.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261021191127/1e8a3dfed3bb7e97dff01e1943366669/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59516521559/1668/6244/e303/62f25ea6fd9ffe8a9efd1745358d51c2.mp3?vuutv=Lkma9HWv3iccj4QJledkx9ZCMVE4hgPPmPqbB4HghHRQTzicYLbNYlrI0HoY51FbE465uhsOpzCgAIzT2VbcF+WQwY/shqPU+pWMpNoJjh0=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1954909335",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1954909335",
+  "duration": 196,
+  "reportedAt": "2026-10-21T10:46:27.976Z",
+  "archivedAt": "2026-10-21T10:48:05.530544+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
