@@ -1,0 +1,22 @@
+{
+  "title": "我想和你看电影",
+  "author": "方糖泡泡",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000023t0F24cI2AS.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400001hm0Vs2LcNx7.m4a?guid=7478323&vkey=D222DE4ACDA28F4F9695FCC58AC41DEE22DBA44B89B60DD9FC05378EF41941815F661CD001DC1CDB127A999149A8B168F0B3A152AD8A14F6__v2b9abb89&uin=&fromtag=120032",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=0013lagX15bEtg",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "0013lagX15bEtg",
+  "duration": 220,
+  "reportedAt": "2026-10-21T09:05:59.846Z",
+  "archivedAt": "2026-10-21T09:07:56.989334+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

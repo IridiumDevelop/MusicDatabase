@@ -1,0 +1,22 @@
+{
+  "title": "遥遥",
+  "author": "西彬",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000Gsmvu3rzL9S.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400003o2yH23NibhW.m4a?guid=7306584&vkey=6EE55A84CFF887704EA213F15DBB151E5150FBE8E6B5D9997FE8369E70A21DC9F88F300C7D963105A0E30BBD74FE13D454F4AB8AE035045F__v2b9abb89&uin=&fromtag=120032&src=C400001wu8uB0KE5Ov.m4a",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=0015XUPO0YzBCm",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "0015XUPO0YzBCm",
+  "duration": 246,
+  "reportedAt": "2026-10-21T09:06:14.428Z",
+  "archivedAt": "2026-10-21T09:08:06.209893+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

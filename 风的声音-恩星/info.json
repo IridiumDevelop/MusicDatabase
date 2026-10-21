@@ -1,0 +1,22 @@
+{
+  "title": "风的声音",
+  "author": "恩星",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001E3qmJ0ymIwq.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400000G2QjL4WS3lX.m4a?guid=1494139&vkey=6B07FC7CD1D85C20E6F0D8DACBA263948AEB4B85C463905C24395373BDB9CAC16F50DAD2A4C191A7D2F14B851ADC4F7AB6BF0B72269E8186__v2b9aba4b&uin=&fromtag=120032&src=C400004Upe3e1CcecZ.m4a",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=000jKaD63GRTuk",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "000jKaD63GRTuk",
+  "duration": 203,
+  "reportedAt": "2026-10-21T09:05:40.940Z",
+  "archivedAt": "2026-10-21T09:08:10.967881+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

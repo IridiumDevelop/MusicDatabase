@@ -1,0 +1,22 @@
+{
+  "title": "你说",
+  "author": "小田音乐社 / 灼夭",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001IEGK624umkO.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400002GJS5Y3a3QnM.m4a?guid=8410732&vkey=353024E007462A688EA3BBFC87205738B16559FB5316875B98D3444BD875CE45F701257867030944672925741C92DBBAB513979BDFB98859__v2ba83d90&uin=&fromtag=120032&src=C4000005jXy84AQsxd.m4a",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=001H38E30nSmFr",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "001H38E30nSmFr",
+  "duration": 203,
+  "reportedAt": "2026-10-21T09:06:24.545Z",
+  "archivedAt": "2026-10-21T09:07:48.719353+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

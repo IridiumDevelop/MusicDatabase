@@ -1,0 +1,22 @@
+{
+  "title": "因为你",
+  "author": "Luna雪苡",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003S2MS61FHG0I.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400002Aq5Pq1wlXUA.m4a?guid=535516&vkey=BAA4803A67A769BFD842F7C2B65424C356399B91D1C9894AA5F0C35ACF3C71BDB5F74D63C7C1471D870A99DCD41521360815CDD979B360A5__v2b9ab226&uin=&fromtag=120032&src=C4000044W5uW4Ifi4x.m4a",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=000VQaKT23B16F",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "000VQaKT23B16F",
+  "duration": 177,
+  "reportedAt": "2026-10-21T09:06:07.066Z",
+  "archivedAt": "2026-10-21T09:07:53.524615+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

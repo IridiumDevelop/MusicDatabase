@@ -1,0 +1,22 @@
+{
+  "title": "是初恋是心动是你",
+  "author": "房东的猫",
+  "pic": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000032wm9x0VO0VG.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://aqqmusic.tc.qq.com/C400003JUlF24EFntI.m4a?guid=3701722&vkey=458F3A8CF7A183A52298F302FB2C2011E2A32C44424CA3D0E72F7A8FFD5F53DE8D31CEDC5D87B0C0AE21F580CF7C7D259C2493DCB7F2FB45__v2b9ab224&uin=&fromtag=120032&src=C4000032t1Yi302Kca.m4a",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=tencent&type=lrc&id=003JUlF24EFntI",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "003JUlF24EFntI",
+  "duration": 208,
+  "reportedAt": "2026-10-21T09:06:18.766Z",
+  "archivedAt": "2026-10-21T09:08:01.660377+00:00",
+  "files": {
+    "audio": "song.m4a",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
