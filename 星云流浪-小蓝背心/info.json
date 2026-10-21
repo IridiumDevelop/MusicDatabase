@@ -1,0 +1,28 @@
+{
+  "title": "星云流浪",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 172.174,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.507368+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "星云流浪-小蓝背心.mp3",
+    "originalSha256": "97985be2520a5241a491c88d3e96bc37b897308ed1db3db45e2e973f48020106"
+  }
+}

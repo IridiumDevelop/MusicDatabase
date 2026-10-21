@@ -1,0 +1,28 @@
+{
+  "title": "风吹故里",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 188.426,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.628394+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "风吹故里-小蓝背心.mp3",
+    "originalSha256": "58c2c4460fa0bb891ba05b0de6029a5697d4046385bd0871442bed426b1d4cde"
+  }
+}

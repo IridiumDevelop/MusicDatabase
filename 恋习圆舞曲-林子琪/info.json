@@ -1,0 +1,28 @@
+{
+  "title": "恋习圆舞曲",
+  "author": "林子琪",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 243.531,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.468375+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "恋习圆舞曲-林子琪.mp3",
+    "originalSha256": "b07108d63475f371c12250d0230636e02032cd4557af986d5cc9fbefcb8bf6a2"
+  }
+}

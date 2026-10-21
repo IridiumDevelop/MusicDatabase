@@ -1,0 +1,28 @@
+{
+  "title": "约好",
+  "author": "双笙 (陈元汐)",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 277.368,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.563319+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "约好-双笙 (陈元汐).mp3",
+    "originalSha256": "0d0c0e089bfc3ee0fc392a0b7970eaa5df41ab37491ff7bc477e6eda1c49ed1f"
+  }
+}

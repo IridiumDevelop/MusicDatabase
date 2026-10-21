@@ -1,0 +1,28 @@
+{
+  "title": "爱你",
+  "author": "大柯",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 206.602,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.552711+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "爱你-大柯.mp3",
+    "originalSha256": "5de24c8fe2b4e5f28b97a4d22b6bf7a055b61ed9e4f2142726370efb3d9432ce"
+  }
+}

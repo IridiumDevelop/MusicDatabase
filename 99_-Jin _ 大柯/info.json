@@ -1,0 +1,28 @@
+{
+  "title": "99%",
+  "author": "Jin / 大柯",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 205.714,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.329841+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "99_-Jin _ 大柯.mp3",
+    "originalSha256": "d1ed3f768ea356d4930bd58c6901d9a6ae88d5119dc696f48175bcdd66ab7555"
+  }
+}

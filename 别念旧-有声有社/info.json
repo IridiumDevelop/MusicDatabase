@@ -1,0 +1,28 @@
+{
+  "title": "别念旧",
+  "author": "有声有社",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 191.285,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.421386+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "别念旧-有声有社.mp3",
+    "originalSha256": "46942d2e3b905340d9175e557161e25702ddcf2d49b6f6c232185eda59e5c708"
+  }
+}

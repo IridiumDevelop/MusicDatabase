@@ -1,0 +1,28 @@
+{
+  "title": "总会懂",
+  "author": "子非鱼",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 216.625,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.458162+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "总会懂-子非鱼.mp3",
+    "originalSha256": "b8a6657a2dab1fef9927ea84446bd5ae6ba83933d347a201a8bcf1260df23edb"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "不晚",
+  "author": "小蓝背心 / 三点水",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 207.826,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.358550+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "不晚-小蓝背心 _ 三点水.mp3",
+    "originalSha256": "a2c4554771d341163d54a2cb52b8a23cc1a7f6196b798cddd11631f04fd70e43"
+  }
+}

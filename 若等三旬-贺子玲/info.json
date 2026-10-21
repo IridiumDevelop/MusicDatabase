@@ -1,0 +1,28 @@
+{
+  "title": "若等三旬",
+  "author": "贺子玲",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 183.088,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.577867+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "若等三旬-贺子玲.mp3",
+    "originalSha256": "aa443e41821fc909c16b42d947002e37b462f0957c1060c6626073abf105c0b0"
+  }
+}

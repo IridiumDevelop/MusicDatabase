@@ -1,0 +1,28 @@
+{
+  "title": "就是爱(This is Love)",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 198.261,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.449563+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "就是爱(This is Love)-小蓝背心.mp3",
+    "originalSha256": "32d3cb16471e6faa89197ba6884d74b1be92b4b416859ae74d2245899bf90d49"
+  }
+}

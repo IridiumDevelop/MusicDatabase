@@ -1,0 +1,28 @@
+{
+  "title": "从那天起",
+  "author": "有声有社",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 255.862,
+  "reportedAt": null,
+  "archivedAt": "2026-10-21T11:14:45.382093+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads.rar",
+    "filename": "从那天起-有声有社.mp3",
+    "originalSha256": "377b898f2e2c2a2c93782b48fafa55c00655352e4ef8a5272bb145fe1e6d2b90"
+  }
+}
