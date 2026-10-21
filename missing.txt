@@ -3,33 +3,95 @@
 # 列（TAB 分隔）：folder  kind(cover|lyric)  reason  attempts  lastAttempt  url
 # attempts 达到上限后不再重试，条目保留在此供人工排查
 7-陈奕迅	lyric	no_url	0		
+99_-Jin _ 大柯	cover	no_url	0		
+99_-Jin _ 大柯	lyric	no_url	0		
 Faded-Alan Walker	lyric	no_url	0		
 Falling You-曾可妮_都智文	lyric	no_url	0		
 Hold the Light（冠以破碎之名）漫剧配乐-CY7	lyric	no_url	0		
+Natural-Imagine Dragons	cover	no_url	0		
+Natural-Imagine Dragons	lyric	no_url	0		
 Shape of You-Ed Sheeran	lyric	no_url	0		
+不可一世-杨冰怡	cover	no_url	0		
+不可一世-杨冰怡	lyric	no_url	0		
+不晚-小蓝背心 _ 三点水	cover	no_url	0		
+不晚-小蓝背心 _ 三点水	lyric	no_url	0		
+不知所起-小蓝背心	cover	no_url	0		
+不知所起-小蓝背心	lyric	no_url	0		
 九万字-黄诗扶	lyric	no_url	0		
+从那天起-有声有社	cover	no_url	0		
+从那天起-有声有社	lyric	no_url	0		
 会吗-刘可以	lyric	no_url	0		
 光影和你 (Live)-范茹	lyric	no_url	0		
 关于你的-很美味	lyric	no_url	0		
 再见，少年-冯提莫	lyric	no_url	0		
+写给山海的告白-小蓝背心 _ 飞行工作室	cover	no_url	0		
+写给山海的告白-小蓝背心 _ 飞行工作室	lyric	no_url	0		
 刀马旦-李玟_周杰伦	lyric	no_url	0		
+刚好风吹过-小蓝背心	cover	no_url	0		
+刚好风吹过-小蓝背心	lyric	no_url	0		
+初冬的秘密-小蓝背心	cover	no_url	0		
+初冬的秘密-小蓝背心	lyric	no_url	0		
+别念旧-有声有社	cover	no_url	0		
+别念旧-有声有社	lyric	no_url	0		
 十九岁的一天-杨紫怡	lyric	no_url	0		
+半熟半生-小田音乐社 _ 尹昔眠	cover	no_url	0		
+半熟半生-小田音乐社 _ 尹昔眠	lyric	no_url	0		
 吹梦到西洲-恋恋故人难_黄诗扶_王敬轩（妖扬）	lyric	no_url	0		
 吹海风-冯提莫	lyric	no_url	0		
+奶茶少女-有声有社	cover	no_url	0		
+奶茶少女-有声有社	lyric	no_url	0		
 小河淌水(云南民歌)-彭丽媛	lyric	no_url	0		
 小河淌水-谭晶	lyric	no_url	0		
+就是爱(This is Love)-小蓝背心	cover	no_url	0		
+就是爱(This is Love)-小蓝背心	lyric	no_url	0		
 屋顶-周杰伦_温岚_吴宗宪	lyric	no_url	0		
 属于你-很美味	lyric	no_url	0		
+总会懂-子非鱼	cover	no_url	0		
+总会懂-子非鱼	lyric	no_url	0		
+恋习圆舞曲-林子琪	cover	no_url	0		
+恋习圆舞曲-林子琪	lyric	no_url	0		
 想你就写信 (Live)-周杰伦_李硕_张鑫	lyric	no_url	0		
+愛唄~since 2007~ (爱歌~since 2007~)-whiteeeen (ホワイティーン)	cover	no_url	0		
+愛唄~since 2007~ (爱歌~since 2007~)-whiteeeen (ホワイティーン)	lyric	no_url	0		
+我不懂-有声有社	cover	no_url	0		
+我不懂-有声有社	lyric	no_url	0		
 我的一个道姑朋友-双笙（陈元汐）	lyric	no_url	0		
 我的一个道姑朋友-程嘉敏	lyric	no_url	0		
+星与海-小蓝背心	cover	no_url	0		
+星与海-小蓝背心	lyric	no_url	0		
+星云流浪-小蓝背心	cover	no_url	0		
+星云流浪-小蓝背心	lyric	no_url	0		
+晚风吹过落日海-小蓝背心	cover	no_url	0		
+晚风吹过落日海-小蓝背心	lyric	no_url	0		
+枕边童话-小田音乐社 _ 傲七爷(江偌绮)	cover	no_url	0		
+枕边童话-小田音乐社 _ 傲七爷(江偌绮)	lyric	no_url	0		
 梦境之外-段奥娟	cover	no_url	0		
 梦境之外-段奥娟	lyric	no_url	0		
+棉花糖-Sasablue	cover	no_url	0		
+棉花糖-Sasablue	lyric	no_url	0		
 沉溺 (你让我的心不再结冰）-邹沛沛_Pank	lyric	no_url	0		
 沉溺(双女主版)-许知夏_甜Tiannnn	lyric	no_url	0		
+爱你-云汐	cover	no_url	0		
+爱你-云汐	lyric	no_url	0		
+爱你-大柯	cover	no_url	0		
+爱你-大柯	lyric	no_url	0		
 空心 (Live)-冯提莫	lyric	no_url	0		
+约好-双笙 (陈元汐)	cover	no_url	0		
+约好-双笙 (陈元汐)	lyric	no_url	0		
+若等三旬-贺子玲	cover	no_url	0		
+若等三旬-贺子玲	lyric	no_url	0		
+蜜柚恋-雷米	cover	no_url	0		
+蜜柚恋-雷米	lyric	no_url	0		
 蝴蝶-洛天依_小v	lyric	no_url	0		
+走一走-有声有社	cover	no_url	0		
+走一走-有声有社	lyric	no_url	0		
 迷路-冯提莫	lyric	no_url	0		
+逍遥游-有声有社	cover	no_url	0		
+逍遥游-有声有社	lyric	no_url	0		
+那些年-Uu (刘梦妤)	cover	no_url	0		
+那些年-Uu (刘梦妤)	lyric	no_url	0		
 闪烁之光 (手游主题曲)-冯提莫	lyric	no_url	0		
 雨季限定-姚佳顺子	lyric	no_url	0		
 青花瓷-刘芳	lyric	no_url	0		
+风吹故里-小蓝背心	cover	no_url	0		
+风吹故里-小蓝背心	lyric	no_url	0		
