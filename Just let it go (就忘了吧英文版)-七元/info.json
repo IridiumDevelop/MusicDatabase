@@ -1,0 +1,28 @@
+{
+  "title": "Just let it go (就忘了吧英文版)",
+  "author": "七元",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 216.758,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "Just let it go (就忘了吧英文版)-七元.mp3",
+    "originalSha256": "bb6a4d93ff6de35e9c826b04f8064d983724d2c8b0901a926cefdf58b0e29201"
+  }
+}

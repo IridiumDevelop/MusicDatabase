@@ -1,0 +1,28 @@
+{
+  "title": "昨日少年",
+  "author": "大柯",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 238.182,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "昨日少年-大柯.mp3",
+    "originalSha256": "7fc9b735174472bb2ba5ebccb5dc98bf4b1583fbc0257af9733ea2c0e5caaa58"
+  }
+}

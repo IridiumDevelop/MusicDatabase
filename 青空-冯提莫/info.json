@@ -1,0 +1,28 @@
+{
+  "title": "青空",
+  "author": "冯提莫",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 197.143,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "青空-冯提莫.mp3",
+    "originalSha256": "9337092f5842a88b128b8f4f3c305f65786aa8a7dd672ebee395dfa21d2bb905"
+  }
+}

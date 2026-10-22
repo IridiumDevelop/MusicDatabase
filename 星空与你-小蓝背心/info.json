@@ -1,0 +1,28 @@
+{
+  "title": "星空与你",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 208.616,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "星空与你-小蓝背心.mp3",
+    "originalSha256": "62e674e6d5c409f3359e75f36c3294722d959eac2f71a7b1b9a22253be449fa4"
+  }
+}

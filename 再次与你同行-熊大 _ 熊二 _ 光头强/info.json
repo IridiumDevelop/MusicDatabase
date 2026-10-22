@@ -1,0 +1,28 @@
+{
+  "title": "再次与你同行",
+  "author": "熊大 / 熊二 / 光头强",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 240.909,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "再次与你同行-熊大 _ 熊二 _ 光头强.mp3",
+    "originalSha256": "aa44c5bc991550c1a6fa100e960ba985999ed93c6decb4a255a5a3db80a796c3"
+  }
+}

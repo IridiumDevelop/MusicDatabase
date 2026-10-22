@@ -1,0 +1,28 @@
+{
+  "title": "Slowly",
+  "author": "yihuik苡慧",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 201.479,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "Slowly-yihuik苡慧.mp3",
+    "originalSha256": "b202c0c939a62f33de83eb7baa2d72e60af5853017daa5f52b14030adb38cedb"
+  }
+}

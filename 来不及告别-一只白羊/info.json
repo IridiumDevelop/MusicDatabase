@@ -1,0 +1,28 @@
+{
+  "title": "来不及告别",
+  "author": "一只白羊",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 243.956,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "来不及告别-一只白羊.mp3",
+    "originalSha256": "692b8306c0ee6b25a34c74cfb547eb605054d086c46e747b44d7fb5417d58055"
+  }
+}

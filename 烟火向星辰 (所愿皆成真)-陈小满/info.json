@@ -1,0 +1,28 @@
+{
+  "title": "烟火向星辰 (所愿皆成真)",
+  "author": "陈小满",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 209.613,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "烟火向星辰 (所愿皆成真)-陈小满.mp3",
+    "originalSha256": "a7ce550fffa9c879d767e63a807365d954df0e07e9e860462fd1a9bec48625c9"
+  }
+}

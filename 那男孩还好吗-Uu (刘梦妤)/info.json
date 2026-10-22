@@ -1,0 +1,28 @@
+{
+  "title": "那男孩还好吗",
+  "author": "Uu (刘梦妤)",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 252.0,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "那男孩还好吗-Uu (刘梦妤).mp3",
+    "originalSha256": "62148bb350baf58dcf02dc7f101b2b6f9c9d8351114c75a90e1cdd1c2067b18a"
+  }
+}

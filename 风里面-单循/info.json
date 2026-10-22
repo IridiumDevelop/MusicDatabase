@@ -1,0 +1,28 @@
+{
+  "title": "风里面",
+  "author": "单循",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 239.616,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "风里面-单循.mp3",
+    "originalSha256": "ec85ea23640d68fcb3966467d542095a14f57c63b66b61f3536c28f172d94541"
+  }
+}

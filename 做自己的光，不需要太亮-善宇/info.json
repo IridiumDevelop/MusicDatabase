@@ -1,0 +1,28 @@
+{
+  "title": "做自己的光，不需要太亮",
+  "author": "善宇",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 151.071,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "做自己的光，不需要太亮-善宇.mp3",
+    "originalSha256": "3b7b39d0238964e81ecc38012bbd55b2da9307dc5452a3bdaf7aa97b93be073d"
+  }
+}

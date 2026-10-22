@@ -1,0 +1,28 @@
+{
+  "title": "恋爱告急",
+  "author": "鞠婧祎",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 253.08,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "恋爱告急-鞠婧祎.mp3",
+    "originalSha256": "12fc405d8ac4dd8e84ec2f7b91900c33916cfe1793e0cd9aa19033889f16039c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "温暖风",
+  "author": "李怡然同学",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 188.824,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "温暖风-李怡然同学.mp3",
+    "originalSha256": "21b9d54d6d6972aa204037cece6f1d6a5400384bcc0dc897037ecef569c3e6db"
+  }
+}

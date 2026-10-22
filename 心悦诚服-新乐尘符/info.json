@@ -1,0 +1,28 @@
+{
+  "title": "心悦诚服",
+  "author": "新乐尘符",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 247.826,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "心悦诚服-新乐尘符.mp3",
+    "originalSha256": "fb5362a48d9d7b692dee759a51c41cbe0d5eaf50e2c59754eb0ed06f64e0e257"
+  }
+}

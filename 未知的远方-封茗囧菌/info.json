@@ -1,0 +1,28 @@
+{
+  "title": "未知的远方",
+  "author": "封茗囧菌",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 212.81,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "未知的远方-封茗囧菌.mp3",
+    "originalSha256": "8ff4d1f13860ffdffcefb3486867340f37a82e8d135702f8c4490dc4e89907fb"
+  }
+}

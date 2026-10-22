@@ -1,0 +1,28 @@
+{
+  "title": "我想我会",
+  "author": "尹露浠",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 235.385,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "我想我会-尹露浠.mp3",
+    "originalSha256": "05b71b95108e4df9122ab736308e4f77984cf8f8c21c0f74841b41dd89019897"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "你是我的微风",
+  "author": "史一",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 264.994,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "你是我的微风-史一.mp3",
+    "originalSha256": "d69eff646d160d3a96093eeda5ab29582d8ef579a683f07c8c28af98e42705b4"
+  }
+}

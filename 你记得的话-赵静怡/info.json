@@ -1,0 +1,28 @@
+{
+  "title": "你记得的话",
+  "author": "赵静怡",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 207.34,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "你记得的话-赵静怡.mp3",
+    "originalSha256": "bca8cb53e41dd482eb41536cffbff4edaa1bddf3aa99e17885d6a06dbb348c64"
+  }
+}

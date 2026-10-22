@@ -1,0 +1,28 @@
+{
+  "title": "渺小的你",
+  "author": "九三",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 188.571,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "渺小的你-九三.mp3",
+    "originalSha256": "9df8c699ec465c171a1652e0b33f5cd036f6eecc4812f2a24c716965cf174e70"
+  }
+}

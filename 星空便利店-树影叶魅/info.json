@@ -1,0 +1,28 @@
+{
+  "title": "星空便利店",
+  "author": "树影叶魅",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 185.647,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "星空便利店-树影叶魅.mp3",
+    "originalSha256": "382d5563a2fe8645c1c782f3fd5aa5dd8dea6ae5be28fedbb2daa59b220b61ee"
+  }
+}

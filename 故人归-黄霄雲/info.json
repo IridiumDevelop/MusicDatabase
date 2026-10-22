@@ -1,0 +1,28 @@
+{
+  "title": "故人归",
+  "author": "黄霄雲",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 236.327,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "故人归-黄霄雲.mp3",
+    "originalSha256": "cac5f839c720f54e507d6cd7be6af0bee85603ac694efcc4656ee365beebde6a"
+  }
+}

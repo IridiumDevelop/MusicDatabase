@@ -1,0 +1,28 @@
+{
+  "title": "会开花的云",
+  "author": "王樾安",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 211.0,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "会开花的云-王樾安.mp3",
+    "originalSha256": "723f3b12f5300303e9a1cb8fef5eb2987c83eef2c11993b234a074f071ef832c"
+  }
+}

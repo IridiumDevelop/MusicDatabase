@@ -1,0 +1,28 @@
+{
+  "title": "Neverland",
+  "author": "黄霄雲",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 248.51,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "Neverland-黄霄雲.mp3",
+    "originalSha256": "fc6e51258575b9bcb4cc74a11ff6236fcfbba2c10b3dc1b1acc76efdfd04b9a0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "乘风远行",
+  "author": "邢艺苗 / 音药配方",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 194.167,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "乘风远行-邢艺苗 _ 音药配方.mp3",
+    "originalSha256": "3b0c01e23c66d9f3a3a0d3c56b6aeee8e10769728f9a249c8c6281bd32c8d2d2"
+  }
+}

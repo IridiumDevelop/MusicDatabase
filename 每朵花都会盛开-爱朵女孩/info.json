@@ -1,0 +1,28 @@
+{
+  "title": "每朵花都会盛开",
+  "author": "爱朵女孩",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 233.684,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "每朵花都会盛开-爱朵女孩.mp3",
+    "originalSha256": "9321a3f155b0d6000bdd5f88a93ff7805958c815101283018deea0f29a5d2741"
+  }
+}

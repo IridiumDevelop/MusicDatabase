@@ -1,0 +1,28 @@
+{
+  "title": "有形的翅膀",
+  "author": "张韶涵",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 216.107,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "有形的翅膀-张韶涵.mp3",
+    "originalSha256": "2a3ea00365e41a28e2aaaca5ff7f22cf4c9f3768a909b927b325f59e252851e0"
+  }
+}

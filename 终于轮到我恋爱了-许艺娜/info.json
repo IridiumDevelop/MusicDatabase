@@ -1,0 +1,28 @@
+{
+  "title": "终于轮到我恋爱了",
+  "author": "许艺娜",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 220.5,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "终于轮到我恋爱了-许艺娜.mp3",
+    "originalSha256": "47b80e7ee4530a4de3effcc4f2f3aefcd39133e15b3708b200424e91c8441dc4"
+  }
+}

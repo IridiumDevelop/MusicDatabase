@@ -1,0 +1,28 @@
+{
+  "title": "你曾逆光而来",
+  "author": "小蓝背心 / 凯万K1inz",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 173.647,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "你曾逆光而来-小蓝背心 _ 凯万K1inz.mp3",
+    "originalSha256": "4c096a79a1d6c15c0188ab8e43e451ddd02acba0fb686b7f2814fc6ff8cc9e76"
+  }
+}

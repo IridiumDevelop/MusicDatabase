@@ -1,0 +1,28 @@
+{
+  "title": "秘密日记",
+  "author": "黄霄雲",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 181.81,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "秘密日记-黄霄雲.mp3",
+    "originalSha256": "0baf2da0b953eeacaf7900d369000bb7db7a988aa68e5d2543926b813a647338"
+  }
+}

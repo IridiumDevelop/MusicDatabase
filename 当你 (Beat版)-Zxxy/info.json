@@ -1,0 +1,28 @@
+{
+  "title": "当你 (Beat版)",
+  "author": "Zxxy",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 190.555,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "当你 (Beat版)-Zxxy.mp3",
+    "originalSha256": "26b8f474e17f82e49eb52363b44ce69a0fa814b6ba7e24b50ee13da1d5431ca2"
+  }
+}

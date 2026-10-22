@@ -1,0 +1,28 @@
+{
+  "title": "烟火坠落",
+  "author": "黎汐x",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 160.779,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "烟火坠落-黎汐x.mp3",
+    "originalSha256": "adec3a168f21c6840714bfabdc65444e28b52b030a562b60d28e0d8e9f54971f"
+  }
+}

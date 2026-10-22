@@ -1,0 +1,28 @@
+{
+  "title": "飞鸟和蝉",
+  "author": "任然",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 296.007,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "飞鸟和蝉-任然.mp3",
+    "originalSha256": "9dac0b6c596c11d05cf7090a789f3aa9035ee0ab50279a837b42175e0c228d8c"
+  }
+}

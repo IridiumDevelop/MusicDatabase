@@ -1,0 +1,28 @@
+{
+  "title": "月亮会奔向你",
+  "author": "小田音乐社 / 尹昔眠",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 210.891,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "月亮会奔向你-小田音乐社 _ 尹昔眠.mp3",
+    "originalSha256": "0336fc8b800459760fecb7eecb703039a3d745c105fd8968956a38916114ff04"
+  }
+}

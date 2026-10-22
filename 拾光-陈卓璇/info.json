@@ -1,0 +1,28 @@
+{
+  "title": "拾光",
+  "author": "陈卓璇",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 222.188,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "拾光-陈卓璇.mp3",
+    "originalSha256": "4c31677fef990d2c1bffc4cfbe486d9dce4172cd879f0ce7f8323077e377cf13"
+  }
+}

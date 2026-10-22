@@ -1,0 +1,28 @@
+{
+  "title": "雨过天晴",
+  "author": "虞书欣",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 238.894,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "雨过天晴-虞书欣.mp3",
+    "originalSha256": "f05db995c9a41a7e83dfd0a486220f96883db6511b687e435aaac6874aa49282"
+  }
+}

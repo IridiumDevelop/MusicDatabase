@@ -1,0 +1,28 @@
+{
+  "title": "夏夜的风",
+  "author": "树影叶魅",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 198.0,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "夏夜的风-树影叶魅.mp3",
+    "originalSha256": "b8badeddb82574b56db8945762ee43da5669e985def2b372d18217ce4fc3c219"
+  }
+}

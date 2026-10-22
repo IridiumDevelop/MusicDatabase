@@ -1,0 +1,28 @@
+{
+  "title": "北京东路的日子 (毕业合唱版)",
+  "author": "九三 / 浅影阿",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 282.327,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "北京东路的日子 (毕业合唱版)-九三 _ 浅影阿.mp3",
+    "originalSha256": "5af08ebd361ab7d61b54ec750124d18bcbb0d5b96a57c4febf6b72882991ce78"
+  }
+}

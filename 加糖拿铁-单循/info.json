@@ -1,0 +1,28 @@
+{
+  "title": "加糖拿铁",
+  "author": "单循",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 206.25,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "加糖拿铁-单循.mp3",
+    "originalSha256": "84b4c79f79660bd6dbba485fcd8cb68a2e31232b0290022bbdca6a81a0765190"
+  }
+}

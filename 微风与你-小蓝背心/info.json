@@ -1,0 +1,28 @@
+{
+  "title": "微风与你",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 211.456,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "微风与你-小蓝背心.mp3",
+    "originalSha256": "a89007e261d8e2fda89f603ecdac4cf23b0ff089691a8ed49a4f82e32bd19ac3"
+  }
+}

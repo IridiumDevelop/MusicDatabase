@@ -1,0 +1,28 @@
+{
+  "title": "万物爱语",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 191.972,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "万物爱语-小蓝背心.mp3",
+    "originalSha256": "67af80df25ea5eae6c635d5e56069f2b920419542788349d032b4fa2b719cfd0"
+  }
+}

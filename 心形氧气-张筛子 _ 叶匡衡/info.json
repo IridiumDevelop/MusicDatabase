@@ -1,0 +1,28 @@
+{
+  "title": "心形氧气",
+  "author": "张筛子 / 叶匡衡",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 193.125,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "心形氧气-张筛子 _ 叶匡衡.mp3",
+    "originalSha256": "f0504845b5cf5f5620ea9b90a5176abab831f67955cd875895adbce7c48fc94e"
+  }
+}

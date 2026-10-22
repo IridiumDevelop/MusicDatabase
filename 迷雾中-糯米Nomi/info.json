@@ -1,0 +1,28 @@
+{
+  "title": "迷雾中",
+  "author": "糯米Nomi",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 221.946,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "迷雾中-糯米Nomi.mp3",
+    "originalSha256": "83b791235ae3ccfadf580f3c06bfe3599b370e4ca3cbc232d259756163c88892"
+  }
+}

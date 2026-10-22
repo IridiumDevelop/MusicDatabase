@@ -1,0 +1,28 @@
+{
+  "title": "新学季",
+  "author": "SNH48",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 269.766,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "新学季-SNH48.mp3",
+    "originalSha256": "16d0e425140bd4dfc03a50839a10cbda4b3e079a2d3f9ccd636eab6f9a2bd597"
+  }
+}

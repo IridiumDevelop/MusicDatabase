@@ -1,0 +1,28 @@
+{
+  "title": "如约",
+  "author": "苏晗",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 232.421,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "如约-苏晗.mp3",
+    "originalSha256": "3752a46819b96b68e5be69980523bb545154dfcb6d8a52eeb700c3be74774f57"
+  }
+}

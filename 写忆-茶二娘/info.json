@@ -1,0 +1,28 @@
+{
+  "title": "写忆",
+  "author": "茶二娘",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 231.892,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "写忆-茶二娘.mp3",
+    "originalSha256": "099cbd34ccb3f55d608d3152fe6131cdee96d2c034480d50e44862965b253009"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "给不被爱的孩子和我",
+  "author": "房东的猫",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 207.664,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "给不被爱的孩子和我-房东的猫.mp3",
+    "originalSha256": "f3a4644d047e16f2cc0e9f396421fc2730267adbc61c6b0f8cf0b6ee5b95cafe"
+  }
+}

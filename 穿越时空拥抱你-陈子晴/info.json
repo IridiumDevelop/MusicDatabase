@@ -1,0 +1,28 @@
+{
+  "title": "穿越时空拥抱你",
+  "author": "陈子晴",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 220.299,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "穿越时空拥抱你-陈子晴.mp3",
+    "originalSha256": "e41ca2dd16ff432133b5836842f149236044c70b9af1aa618bf9e0bff7cec3a1"
+  }
+}

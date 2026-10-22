@@ -1,0 +1,28 @@
+{
+  "title": "是对爱的渴望",
+  "author": "房东的猫",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 180.983,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "是对爱的渴望-房东的猫.mp3",
+    "originalSha256": "60c326d31389c60ff880ada349c9402c0bf82336c8ed4129757bc9d9e79ecbe3"
+  }
+}

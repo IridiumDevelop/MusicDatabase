@@ -1,0 +1,28 @@
+{
+  "title": "最暖的忧伤",
+  "author": "田馥甄",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 268.824,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "最暖的忧伤-田馥甄.mp3",
+    "originalSha256": "7d2d182fdd679761e2913354760770ff518574d1689da7aaeda2c2a51f73f960"
+  }
+}

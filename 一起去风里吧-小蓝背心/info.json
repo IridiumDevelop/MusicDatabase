@@ -1,0 +1,28 @@
+{
+  "title": "一起去风里吧",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 183.673,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "一起去风里吧-小蓝背心.mp3",
+    "originalSha256": "01039d0381be30103c14eb012ee09e76d378d4c13ae8389bf8a2471eca2ef4b4"
+  }
+}

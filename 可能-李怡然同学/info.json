@@ -1,0 +1,28 @@
+{
+  "title": "可能",
+  "author": "李怡然同学",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 217.579,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "可能-李怡然同学.mp3",
+    "originalSha256": "6b35e9a84bca2425420475f3b82bbf73b6b8b31954f6d4b077b5309e1b645fdc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "时间独白",
+  "author": "弦子",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 215.638,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "时间独白-弦子.mp3",
+    "originalSha256": "c7c0c875b063168570e2ff0519dc3f0e11bc5daaee3f20add597abd1cad3a4cd"
+  }
+}

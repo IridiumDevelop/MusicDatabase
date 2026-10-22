@@ -1,0 +1,28 @@
+{
+  "title": "化作晚风与你相拥",
+  "author": "尹昔眠 / 曹子白",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 227.463,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "化作晚风与你相拥-尹昔眠 _ 曹子白.mp3",
+    "originalSha256": "b8128bbbf717535ba51b8558a50ddc74af53c2b9f192503184d5cb36adb83e3a"
+  }
+}

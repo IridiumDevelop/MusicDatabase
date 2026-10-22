@@ -1,0 +1,28 @@
+{
+  "title": "年少的脸",
+  "author": "绝世小雪琪",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 201.316,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "年少的脸-绝世小雪琪.mp3",
+    "originalSha256": "5ba8274df5fd829f0d1ec1eee3a20a982fe1ea78a8451af9b91c0135ef61dec4"
+  }
+}

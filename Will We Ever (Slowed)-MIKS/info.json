@@ -1,0 +1,28 @@
+{
+  "title": "Will We Ever (Slowed)",
+  "author": "MIKS",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 189.391,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "Will We Ever (Slowed)-MIKS.mp3",
+    "originalSha256": "ae0ac9124bfd6d71cf8f4be0fc873676609a0787eeeb074736f2e87db180f170"
+  }
+}

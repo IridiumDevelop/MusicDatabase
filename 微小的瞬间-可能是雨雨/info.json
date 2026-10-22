@@ -1,0 +1,28 @@
+{
+  "title": "微小的瞬间",
+  "author": "可能是雨雨",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 204.444,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "微小的瞬间-可能是雨雨.mp3",
+    "originalSha256": "87a56f706166298ff7f9ad37fa42315eb074a570de62faaa45ee4d2fbe6d378c"
+  }
+}

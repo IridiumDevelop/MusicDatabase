@@ -1,0 +1,28 @@
+{
+  "title": "给你",
+  "author": "蓝心羽",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 157.088,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "给你-蓝心羽.mp3",
+    "originalSha256": "981bbd291810e072dbc34d67b21603cd060e239eb49659b998eec0eaa7073074"
+  }
+}

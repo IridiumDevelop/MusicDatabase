@@ -1,0 +1,28 @@
+{
+  "title": "去有风的地方",
+  "author": "郁可唯",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 231.182,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "去有风的地方-郁可唯.mp3",
+    "originalSha256": "f16e35bef4b4463d342493cd7dbde6298d586324893b9899a884c93a682406c1"
+  }
+}

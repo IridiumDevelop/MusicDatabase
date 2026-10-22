@@ -1,0 +1,28 @@
+{
+  "title": "星空飞行",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 199.95,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "星空飞行-小蓝背心.mp3",
+    "originalSha256": "700735ac2da2658e23c8951f59e104aec130c4ebda916bdc73ac3f31f81b470e"
+  }
+}

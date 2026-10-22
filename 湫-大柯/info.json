@@ -1,0 +1,28 @@
+{
+  "title": "湫",
+  "author": "大柯",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 216.832,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "湫-大柯.mp3",
+    "originalSha256": "7b1036df22cb6fda29e4b7df2182e08f7cb66dd557c8eecdefffe45c7fbce167"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "心愿便利贴",
+  "author": "王欣宇",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 177.685,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "心愿便利贴-王欣宇.mp3",
+    "originalSha256": "36a1bf44c466573a96122b0c22adc7ef4c0d646413b56e0e1e63f540c566eb4b"
+  }
+}

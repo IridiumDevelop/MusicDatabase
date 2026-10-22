@@ -1,0 +1,28 @@
+{
+  "title": "时光森林",
+  "author": "李昕融 / 叶嘉",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 222.072,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "时光森林-李昕融 _ 叶嘉.mp3",
+    "originalSha256": "7bddb2a49eceeb49de52ade6fc467765d7db765a6380cba28fba8bbb92fa7e94"
+  }
+}

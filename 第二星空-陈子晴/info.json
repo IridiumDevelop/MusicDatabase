@@ -1,0 +1,28 @@
+{
+  "title": "第二星空",
+  "author": "陈子晴",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 236.25,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "第二星空-陈子晴.mp3",
+    "originalSha256": "623a0ec99f6fba81cb238aaee9d3f11d000656c66563d1ec4e7304a092ba47f6"
+  }
+}

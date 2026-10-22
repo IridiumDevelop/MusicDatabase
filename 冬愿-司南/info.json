@@ -1,0 +1,28 @@
+{
+  "title": "冬愿",
+  "author": "司南",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 236.447,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "冬愿-司南.mp3",
+    "originalSha256": "ef995419e0c4ae66e4060212136b3719c976ea2bb1ed8361d7d141e644d340a1"
+  }
+}

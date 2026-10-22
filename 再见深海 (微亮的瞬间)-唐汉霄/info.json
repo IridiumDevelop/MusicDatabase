@@ -1,0 +1,28 @@
+{
+  "title": "再见深海 (微亮的瞬间)",
+  "author": "唐汉霄",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 263.867,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "再见深海 (微亮的瞬间)-唐汉霄.mp3",
+    "originalSha256": "2c74011bae17ad35de49a6c471d651e6c9cbb4cee3c07891eadfae2f552c1d2e"
+  }
+}

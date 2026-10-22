@@ -1,0 +1,28 @@
+{
+  "title": "星空之间",
+  "author": "双笙 (陈元汐)",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 236.935,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T05:39:08.678257+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "downloads-20261022.rar",
+    "filename": "星空之间-双笙 (陈元汐).mp3",
+    "originalSha256": "c943356d368e1b65455495c12f524ffde8902d44230141162289d0f67809ceb3"
+  }
+}
