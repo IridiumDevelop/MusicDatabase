@@ -1,0 +1,23 @@
+{
+  "title": "着迷",
+  "author": "Jin / 大柯",
+  "pic": "https://p3.music.126.net/BxpCycbuZy8HzA3ZPgYiJw==/109951165351541034.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261023000223/5c32ea5422ff2c1138f5ef9fcfd1a570/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/4210386663/dfb1/5177/8332/cbb1ecd1adfdeb10a604964498109907.mp3?vuutv=gBgDS1bZ5HjfRxSrYnePI9AgRHgahHnddqIYL+wiocbc0KmqJXAVl2IfDkS6MCxIXI+Z6b4pxPouPGS4ef+s7Ubza/WCMN1xBbMlyVXQhgE=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1483153727",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1483153727",
+  "server": "",
+  "duration": 198,
+  "reportedAt": "2026-10-22T15:37:24.479Z",
+  "archivedAt": "2026-10-22T15:37:58.902013+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
