@@ -1,0 +1,23 @@
+{
+  "title": "愿此程",
+  "author": "小蓝背心",
+  "pic": "https://p4.music.126.net/l_QcxWbo7-poRy2WnGwJSA==/109951173955630780.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261022131533/6a3232dbd8f366efb918b30c58395c08/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/15263487456/3c21/dd35/e796/f62fa4c9c089bba15cd2d42d8c129116.mp3?vuutv=eaoxllSqnhHulp6vFpN3VXL0zjnrBc6+HZdTYGog4oRjaNGZtC2b9LiCcR6Rexwcviqa/Oi9WgHqWn1vz2JVJ8P1m8C8vxGUKeHAGiZgkZ0=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1959729923",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1959729923",
+  "server": "",
+  "duration": 219,
+  "reportedAt": "2026-10-22T04:50:33.885Z",
+  "archivedAt": "2026-10-22T04:50:56.145119+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
