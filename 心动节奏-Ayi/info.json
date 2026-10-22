@@ -1,0 +1,23 @@
+{
+  "title": "心动节奏",
+  "author": "Ayi",
+  "pic": "https://p3.music.126.net/9eGPAfcDtNwhK1GDXnB0MQ==/109951172634870667.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261022121437/585670398d7a7f1c4187407451ceee4a/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/77969280549/b78f/5b42/b670/5920566c5e744c8394182368b8b7108b.mp3?vuutv=284XNr7x0HuuNFsFK797J1HXwsAgann3I21vbJ3mkWyqrauyL9NoELPNGfN009FpKuQK3x2h2BgOAmvb6ECrwlZiLALiD2Tsobkpy0JClik=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1804880018",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1804880018",
+  "server": "",
+  "duration": 224,
+  "reportedAt": "2026-10-22T03:49:40.526Z",
+  "archivedAt": "2026-10-22T03:49:58.161887+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
