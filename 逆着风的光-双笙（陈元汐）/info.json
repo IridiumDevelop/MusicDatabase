@@ -1,0 +1,23 @@
+{
+  "title": "逆着风的光",
+  "author": "双笙（陈元汐）",
+  "pic": "https://p4.music.126.net/QTp-Pw3CPVWlnpbuHutPeg==/109951167915618141.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261022122410/c5050d286ae355ee36e975ddd30a4dda/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/19665625302/6c4d/7365/6f7f/c8d9886fbd76eca05a0b41596669083b.mp3?vuutv=oEeYVjbHl9qsGvYqKg9aPwt9VBZ7FUbQELQVlXLyTXcDOVyeTdcu0ECrX4QKorcLhc7pBgHt+GGpfCdHCVgwlhRcxgVUwAYY9d1+T52sFTg=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1985113409",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1985113409",
+  "server": "",
+  "duration": 294,
+  "reportedAt": "2026-10-22T03:59:11.019Z",
+  "archivedAt": "2026-10-22T03:59:29.998229+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
