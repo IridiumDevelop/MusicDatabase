@@ -1,0 +1,23 @@
+{
+  "title": "来不及勇敢",
+  "author": "周深",
+  "pic": "https://p4.music.126.net/r0CnWQ5CxJywGSHtbRLfoQ==/109951163393139107.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m7.music.126.net/20261022122605/a206cde1ced793f9afbb76c89067d487/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14050271167/135f/45e4/05b2/da8b9ea0de7bfc6f5e79d5ed0adbc929.mp3?vuutv=9CSDFIW+OSo1uR7blZ2RdcftdGkhvDGz0axAE3aKaYuyG/EWuPiGsiAvyWW2sLI38KUzYDp721O+MaiMh8rAB6MZHsWTLvr9AwaMB+oRA9w=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=864107063",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "864107063",
+  "server": "",
+  "duration": 251,
+  "reportedAt": "2026-10-22T04:01:07.184Z",
+  "archivedAt": "2026-10-22T04:01:47.329143+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

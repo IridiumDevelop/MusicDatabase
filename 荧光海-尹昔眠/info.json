@@ -1,0 +1,23 @@
+{
+  "title": "荧光海",
+  "author": "尹昔眠",
+  "pic": "https://p3.music.126.net/CK7-hmxzGHXJofihf9JPkQ==/109951167656597458.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261022122608/85a4f02d7a95781b46b8e12e02b0b0f9/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/15656811766/f07e/002f/17f9/7a86d88acf7657376588a4b7910aebd9.mp3?vuutv=mX7O8gwSTf+0q0vY57VBPcW8x+MPnxjaEdc76KJk/wP0zjaeb9M8SotfO/VjelkdkgZCvzJ0jtb4OqUCiG7e7ZD6tBSoh/4AJ/+EifH2M6Q=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1963074102",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1963074102",
+  "server": "",
+  "duration": 197,
+  "reportedAt": "2026-10-22T04:01:09.091Z",
+  "archivedAt": "2026-10-22T04:01:52.670995+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

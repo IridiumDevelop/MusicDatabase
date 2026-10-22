@@ -1,0 +1,23 @@
+{
+  "title": "月亮会奔向你",
+  "author": "尹昔眠 / 小田音乐社",
+  "pic": "https://p3.music.126.net/p1SCFn8sXczIIFN1pQaIUQ==/109951166713114840.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261022122605/49165b3869f2ae49616d686622abd17f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28552740403/e93c/37b2/57b9/63e888bcc1fd901359c1ffe97c703a6c.mp3?vuutv=pZcrFE3GzWAX/1CeoZqBsQrnw3Kihy6lzKnq9GPtl1+pETqOBb75sVBpE4GF5EBXo3z3svwTKBdhX5y/QXXKpU2ZJljWYqTUjuWPwCpLceU=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1902223965",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1902223965",
+  "server": "",
+  "duration": 211,
+  "reportedAt": "2026-10-22T04:01:06.690Z",
+  "archivedAt": "2026-10-22T04:01:43.633869+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

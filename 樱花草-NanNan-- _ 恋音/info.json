@@ -1,0 +1,23 @@
+{
+  "title": "樱花草",
+  "author": "NanNan-- / 恋音",
+  "pic": "https://p4.music.126.net/weYEy3wn70EqNnk4uWCGZQ==/109951167985758717.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261022122606/d006ad45f8eb6f3d82c05a60c072110c/jdymusic/obj/w5zDlMODwrDDiGjCn8Ky/1774353385/b32d/c8f2/75a8/4cc078cbf7858be7293ba72918a5148e.mp3?vuutv=zudkmF8l4/TCY66rHHeBKIPWcD8yeqMIlcAfFgmmYPDwkQEu3h5tLw/JHsV4dNUhAbidocNERMDpjPl3FYqXCFPaKcPNBGLBeTupUN0MykM=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1432732732",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1432732732",
+  "server": "",
+  "duration": 284,
+  "reportedAt": "2026-10-22T04:01:07.145Z",
+  "archivedAt": "2026-10-22T04:01:49.318547+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

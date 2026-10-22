@@ -1,0 +1,23 @@
+{
+  "title": "风的轨迹",
+  "author": "ycccc",
+  "pic": "https://p4.music.126.net/w0AWcqI9K_F6RW-7wev2Qg==/109951169297709589.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261022122607/73f11dcbf7a297acfa32ae2f1b318122/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34509960962/9666/f1b0/1836/ba9e89d5f4a2d70bdc0f41896b9b8474.mp3?vuutv=u1KC7J4bXK7ZBECUMRkb0ZLT0ZgkMVuV87dRlB3fNxJX0e8AQcg4jWTXfwifnKftWnUaWjBvE/0H33yEY7D094HGIPj1/ZoSrtpJ/cWoW/U=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1864604028",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1864604028",
+  "server": "",
+  "duration": 207,
+  "reportedAt": "2026-10-22T04:01:08.275Z",
+  "archivedAt": "2026-10-22T04:01:56.521886+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
