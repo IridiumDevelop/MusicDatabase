@@ -1,0 +1,23 @@
+{
+  "title": "黄昏的约",
+  "author": "陳鴨梨Charlie",
+  "pic": "https://p3.music.126.net/ygYxjh8yLu2N1ahRTbbpgA==/109951171000335537.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261022131601/03ba0fb1cb94c785db2d1458abf216ad/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60060788899/e73a/a84d/03c5/4d2b182a3cf7b514d58e6654621f0cf3.mp3?vuutv=2aqjZkfYO0TSCELu3XTMY6R1AvcS+tmM9Vfe4+P4HI75v8c80OCl6uDbvEF8UzSSHf08A9Gr6XAWtj4j/ZdVg1ORz+gdtazZvn+3N2aQryE=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2706351629",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2706351629",
+  "server": "",
+  "duration": 264,
+  "reportedAt": "2026-10-22T04:51:01.692Z",
+  "archivedAt": "2026-10-22T04:51:28.884592+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
