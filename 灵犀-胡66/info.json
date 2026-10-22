@@ -1,0 +1,23 @@
+{
+  "title": "灵犀",
+  "author": "胡66",
+  "pic": "https://p4.music.126.net/c4bEW0WCg_EkS2YBl7_ftg==/109951167622984475.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://vercel-meting-api.musifei.org/api?server=netease&type=url&id=1961257448",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1961257448",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1961257448",
+  "server": "",
+  "duration": 235,
+  "reportedAt": "2026-10-22T04:00:51.385Z",
+  "archivedAt": "2026-10-22T04:01:12.957983+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
