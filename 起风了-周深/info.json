@@ -1,0 +1,23 @@
+{
+  "title": "起风了",
+  "author": "周深",
+  "pic": "https://p4.music.126.net/xBerbUwQazr8aj7fnvva5A==/109951172355875734.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m7.music.126.net/20261022122217/6e6541b8d4683f1e57eb4f9a72939f3d/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14054750108/e6b6/3c8a/3540/5498cd4e67997da120670cdc5b021927.mp3?vuutv=4gpe1ATM/ZOEsAYUw3RqnP52MLd2g3hLpXeq5FbaMEOIuycPv8zaH6hn1N3cVfuJRXd8/6w9x/dyD9R3bRZm3vpRKOcYDXh8WUaljrCnTZA=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1475596788",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1475596788",
+  "server": "",
+  "duration": 311,
+  "reportedAt": "2026-10-22T03:57:18.246Z",
+  "archivedAt": "2026-10-22T03:57:48.216032+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
