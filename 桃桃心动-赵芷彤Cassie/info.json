@@ -1,0 +1,23 @@
+{
+  "title": "桃桃心动",
+  "author": "赵芷彤Cassie",
+  "pic": "https://p4.music.126.net/gjwpIisEeLDaPmMFDG5NWw==/109951166296054011.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261022122205/46cc6dea7225494db8241b10c55629a7/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/15013381149/e9ba/2e30/4123/6ee2fc08fedfc74a2c86823f311fad4c.mp3?vuutv=n2khzsRJfpemSy2Kdfq2I7D0dZf+H38sS7tLKItnnk/1diO95n7PO5jINBgCvimtoOiQq+lI4LPhsFXXepZpT5YWUPb6fkhFWZHS01uppTc=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1870352849",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1870352849",
+  "server": "",
+  "duration": 215,
+  "reportedAt": "2026-10-22T03:57:06.546Z",
+  "archivedAt": "2026-10-22T03:57:25.311503+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "故事终章",
+  "author": "程响",
+  "pic": "https://p4.music.126.net/D3cN6_OUqA3XA5hTLtJmSw==/109951169397832222.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261022122200/b5462b47d08731f7bd56d53f3c3acc2d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/23414526715/27eb/1be3/7e98/c3d3a81eaf95dd771855f42a94de045d.mp3?vuutv=/TiRPykv858cquzWqYc8hH9qSmo9SJHBGqmBQuAAMUAIatR/P8ULfJjoquoD6JIpDd4NqO7IqFJR6iPWK4a6VaO/KjEgdongWFGy3NT9qTg=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2008448364",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2008448364",
+  "server": "",
+  "duration": 243,
+  "reportedAt": "2026-10-22T03:57:02.230Z",
+  "archivedAt": "2026-10-22T03:57:22.372667+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
