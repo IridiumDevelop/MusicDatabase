@@ -1,0 +1,23 @@
+{
+  "title": "甜甜",
+  "author": "李佳思",
+  "pic": "https://p3.music.126.net/gJDKwdost8av1f_OZ-3RrQ==/109951165506056541.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261023000420/f4a88f99aed98665da4ebc9757592183/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/5011895158/2cd8/23a6/a517/e6db838f326a4560329e46fa7a37bb3c.mp3?vuutv=u3sBpu5/R5oqu6bak4BU3vJ4nFDAbmxFaIzCbpo4PjtrbekecqP1YHqvrfw/vkx52I/rVbXaQBmqos6jf/GrL2cXLjOiuOwZt1PennEjTuE=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1499014264",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1499014264",
+  "server": "",
+  "duration": 223,
+  "reportedAt": "2026-10-22T15:39:21.806Z",
+  "archivedAt": "2026-10-22T15:39:52.357468+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
