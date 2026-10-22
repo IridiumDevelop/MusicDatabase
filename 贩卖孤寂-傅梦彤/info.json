@@ -1,0 +1,28 @@
+{
+  "title": "贩卖孤寂",
+  "author": "傅梦彤",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 220.655,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "贩卖孤寂-傅梦彤.mp3",
+    "originalSha256": "043a783da583536d7185a0b580d191b213de27a505b089beb7e49568102850f6"
+  }
+}

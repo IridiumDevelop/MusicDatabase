@@ -1,0 +1,28 @@
+{
+  "title": "最美年纪遇见你",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 226.181,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "最美年纪遇见你-小蓝背心.mp3",
+    "originalSha256": "98f66341278c718cfcf58c6c1cf9e2037846a04ebc69990b3d19ad62e049e678"
+  }
+}

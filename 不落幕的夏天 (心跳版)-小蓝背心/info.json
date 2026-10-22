@@ -1,0 +1,28 @@
+{
+  "title": "不落幕的夏天 (心跳版)",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 180.341,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "不落幕的夏天 (心跳版)-小蓝背心.mp3",
+    "originalSha256": "7e91de33936afdcc6cd6f9f4e761f5bf8d8e9386575e1bc93d1bc5cf84056cfd"
+  }
+}

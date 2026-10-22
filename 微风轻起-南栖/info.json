@@ -1,0 +1,28 @@
+{
+  "title": "微风轻起",
+  "author": "南栖",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 191.28,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "微风轻起-南栖.mp3",
+    "originalSha256": "0c2dd63d3813294c54681aa67e97924d16f8d44861d14e59920c38e788c92b28"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "陪你奇奇怪怪 陪你可可爱爱",
+  "author": "爱朵女孩",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 169.636,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "陪你奇奇怪怪 陪你可可爱爱-爱朵女孩.mp3",
+    "originalSha256": "77814e322f69e4c818b44117fad59e916aa545aab847d232843e6cf2e30cd64d"
+  }
+}

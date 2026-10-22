@@ -1,0 +1,28 @@
+{
+  "title": "日落与花火",
+  "author": "谜兔 / iFM",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 212.608,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "日落与花火-谜兔 _ iFM.mp3",
+    "originalSha256": "f1bde0731c79e4180b480c8091512703a4b53f328c2af9ac9f95200083963d45"
+  }
+}

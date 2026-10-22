@@ -1,0 +1,28 @@
+{
+  "title": "所念皆可期",
+  "author": "土土不土啊",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 263.415,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "所念皆可期-土土不土啊.mp3",
+    "originalSha256": "a962a7d6a5bc8f3d403ad86a06dafabd826ff96267863542b6b29216ac4f3843"
+  }
+}

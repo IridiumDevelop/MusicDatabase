@@ -1,0 +1,28 @@
+{
+  "title": "万年星光",
+  "author": "Lorien",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 221.517,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "万年星光-Lorien.mp3",
+    "originalSha256": "9434c4bc14b6952d23ae7ce646f46739f2ab70f4e887fdcf179e3f0c79d64887"
+  }
+}

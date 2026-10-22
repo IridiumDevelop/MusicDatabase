@@ -1,0 +1,28 @@
+{
+  "title": "察觉",
+  "author": "音格概念 / 逸霄",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 199.752,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "察觉-音格概念 _ 逸霄.mp3",
+    "originalSha256": "c95851cfc550b3d1265996d3d6eae522b591c6e5a1bf65972d5513589701c356"
+  }
+}

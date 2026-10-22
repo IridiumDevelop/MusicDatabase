@@ -1,0 +1,28 @@
+{
+  "title": "无人之岛",
+  "author": "任然",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 285.234,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "无人之岛-任然.mp3",
+    "originalSha256": "c54286d882465f5995f8bcf3d4712ef35a165d14be0d28f03d44fac9e9960fd8"
+  }
+}

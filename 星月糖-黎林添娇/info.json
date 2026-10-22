@@ -1,0 +1,28 @@
+{
+  "title": "星月糖",
+  "author": "黎林添娇",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 197.053,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "星月糖-黎林添娇.mp3",
+    "originalSha256": "d40a81f4a48db0958d32a690cebb111ceb34cb83ac25d1c5d39993b030e92185"
+  }
+}

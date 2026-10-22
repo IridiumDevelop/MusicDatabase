@@ -1,0 +1,28 @@
+{
+  "title": "清明",
+  "author": "音阙诗听 / 李佳思",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 284.143,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "清明-音阙诗听 _ 李佳思.mp3",
+    "originalSha256": "bd5eb6c20194b39d9a52d5c296b0c6c9aa5a41429e23e19776f100b4e7b97e2f"
+  }
+}

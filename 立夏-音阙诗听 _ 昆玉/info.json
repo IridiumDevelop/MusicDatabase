@@ -1,0 +1,28 @@
+{
+  "title": "立夏",
+  "author": "音阙诗听 / 昆玉",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 225.6,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "立夏-音阙诗听 _ 昆玉.mp3",
+    "originalSha256": "3af7445d222d54b78e4efee61ef646d2bbac4a0f47c505a2245605d20e7bad72"
+  }
+}

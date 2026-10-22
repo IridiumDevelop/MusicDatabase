@@ -1,0 +1,28 @@
+{
+  "title": "心动引力",
+  "author": "二少君",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 186.832,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "心动引力-二少君.mp3",
+    "originalSha256": "73429cb07b51a6c9e0e2e87b4169e45e7525bd21b126605076de276e656d10e6"
+  }
+}

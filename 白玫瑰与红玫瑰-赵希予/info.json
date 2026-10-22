@@ -1,0 +1,28 @@
+{
+  "title": "白玫瑰与红玫瑰",
+  "author": "赵希予",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 174.973,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "白玫瑰与红玫瑰-赵希予.mp3",
+    "originalSha256": "37756267d8d0fa8a9211f8918cdb78e1896cbb4a88fb11566d4fc954c8689359"
+  }
+}

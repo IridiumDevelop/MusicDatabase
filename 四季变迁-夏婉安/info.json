@@ -1,0 +1,28 @@
+{
+  "title": "四季变迁",
+  "author": "夏婉安",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 235.052,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "四季变迁-夏婉安.mp3",
+    "originalSha256": "a09498a38480c853af3bbaa0b239ca7a1a03ee71b25c6adeefd1b8e5f5cb2d0c"
+  }
+}

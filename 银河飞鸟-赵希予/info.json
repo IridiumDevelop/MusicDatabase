@@ -1,0 +1,28 @@
+{
+  "title": "银河飞鸟",
+  "author": "赵希予",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 214.958,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "银河飞鸟-赵希予.mp3",
+    "originalSha256": "a5f33a0f46e8fa84e50cf5956f7e9040e7ba5f8fe1dfc7756f12165bc8aea2db"
+  }
+}

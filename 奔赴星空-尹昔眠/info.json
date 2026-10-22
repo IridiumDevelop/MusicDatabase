@@ -1,0 +1,28 @@
+{
+  "title": "奔赴星空",
+  "author": "尹昔眠",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 203.691,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "奔赴星空-尹昔眠.mp3",
+    "originalSha256": "c13490b74732109e5a4b9d5236a8715723eb3cb0c7cdc3e9d0e54e1342b7a80b"
+  }
+}

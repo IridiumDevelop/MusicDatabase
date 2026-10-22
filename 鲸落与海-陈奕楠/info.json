@@ -1,0 +1,28 @@
+{
+  "title": "鲸落与海",
+  "author": "陈奕楠",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 206.942,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "鲸落与海-陈奕楠.mp3",
+    "originalSha256": "98f6cc5ab43b827b26754de4e31460c755edaab6e56add2a84c9f7fca526cf33"
+  }
+}

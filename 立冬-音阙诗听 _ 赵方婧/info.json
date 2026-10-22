@@ -1,0 +1,28 @@
+{
+  "title": "立冬",
+  "author": "音阙诗听 / 赵方婧",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 208.125,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "立冬-音阙诗听 _ 赵方婧.mp3",
+    "originalSha256": "662339fa0f7c903ed690b7d2507ce825a16f459487e92786710a1fb40db8358d"
+  }
+}

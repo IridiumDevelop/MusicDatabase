@@ -1,0 +1,28 @@
+{
+  "title": "寒露",
+  "author": "音阙诗听 / 赵方婧",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 264.762,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "寒露-音阙诗听 _ 赵方婧.mp3",
+    "originalSha256": "6e7875a3bbcd315cb1211836257b98e6592ebe97c280907141157b805216d0e7"
+  }
+}

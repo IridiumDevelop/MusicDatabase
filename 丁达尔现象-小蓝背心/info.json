@@ -1,0 +1,28 @@
+{
+  "title": "丁达尔现象",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 219.067,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "丁达尔现象-小蓝背心.mp3",
+    "originalSha256": "aa3b15bed04a43f8e2aeff87b5c9346864c1d83d9b974e567a9cbb3aea143b5a"
+  }
+}

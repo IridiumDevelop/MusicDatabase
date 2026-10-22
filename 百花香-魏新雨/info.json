@@ -1,0 +1,28 @@
+{
+  "title": "百花香",
+  "author": "魏新雨",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 167.895,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "百花香-魏新雨.mp3",
+    "originalSha256": "a0f54befd21f6d15b84fde5c3613e5c0421c93d90b0d4818af9b996ee13dc72c"
+  }
+}

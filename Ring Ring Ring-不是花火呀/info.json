@@ -1,0 +1,28 @@
+{
+  "title": "Ring Ring Ring",
+  "author": "不是花火呀",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 198.673,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "Ring Ring Ring-不是花火呀.mp3",
+    "originalSha256": "a0f2c58a57f49f05b5c0a5e32462050559f7a8c16afa2910168bd6db16c9ac1a"
+  }
+}

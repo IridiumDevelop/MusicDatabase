@@ -1,0 +1,28 @@
+{
+  "title": "白船",
+  "author": "Ssweetxin_",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 185.038,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "白船-Ssweetxin_.mp3",
+    "originalSha256": "6a784f3e1c4ba01efe95327169199f63ab4652dec92d2b063d52d11d9faed673"
+  }
+}

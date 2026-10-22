@@ -1,0 +1,28 @@
+{
+  "title": "惊蛰",
+  "author": "音阙诗听 / 王梓钰",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 241.967,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "惊蛰-音阙诗听 _ 王梓钰.mp3",
+    "originalSha256": "449927f473d30e6cbcc184516403d27fef671b2acb8ff23b71c9320c3a124301"
+  }
+}

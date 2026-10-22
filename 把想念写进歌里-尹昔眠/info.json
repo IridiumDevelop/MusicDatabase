@@ -1,0 +1,28 @@
+{
+  "title": "把想念写进歌里",
+  "author": "尹昔眠",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 208.565,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "把想念写进歌里-尹昔眠.mp3",
+    "originalSha256": "2b94db1d0726f83a69c408bad0b6c7f15c4edc7ed072c0938db8e75bbd23d926"
+  }
+}

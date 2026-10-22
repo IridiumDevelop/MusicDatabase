@@ -1,0 +1,28 @@
+{
+  "title": "银河栈道",
+  "author": "顾妍",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 221.818,
+  "reportedAt": null,
+  "archivedAt": "2026-10-22T14:58:02.876148+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "已下载歌曲_174首.zip",
+    "filename": "银河栈道-顾妍.mp3",
+    "originalSha256": "87ed5e739a9d8880188a525b1f14243d5ba97d96d2c20e47925f0f61361a7f2f"
+  }
+}
