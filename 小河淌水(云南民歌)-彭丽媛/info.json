@@ -6,8 +6,8 @@
   "coverError": null,
   "url": "https://m801.music.126.net/20260920235325/fe4a0c760e3f4fff251bca797507a9bb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/44663524077/2c89/b9b9/709b/e0b70d99bb2cfc02954afeb1460c78c5.mp3?vuutv=Kj73ieD47POfBsqT5fi9s219qfLy5dZahCiI/J066TjGXoM7995uo0EIMsxf58il56XtYhDcmdrrWIgBT7HE1S4+WuylIAEe2foH+P+E8KA=",
   "lrc": "",
-  "lrcOk": false,
-  "lyricError": "no_url",
+  "lrcOk": true,
+  "lyricError": null,
   "songmid": "5257027",
   "duration": 175,
   "reportedAt": "2026-09-20T15:28:27.482Z",
@@ -15,8 +15,9 @@
   "files": {
     "audio": "song.mp3",
     "cover": "cover.png",
-    "lyric": null,
+    "lyric": "lyric.lrc",
     "coverEmbedded": true,
     "tagsWritten": true
-  }
+  },
+  "refetchedLyricAt": "2026-10-22T22:49:36+00:00"
 }

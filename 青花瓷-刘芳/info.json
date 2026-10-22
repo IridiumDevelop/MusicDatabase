@@ -11,7 +11,10 @@
   "files": {
     "audio": "song.mp3",
     "cover": "cover.jpg",
-    "lyric": null,
+    "lyric": "lyric.lrc",
     "coverEmbedded": true
-  }
+  },
+  "lrcOk": true,
+  "lyricError": null,
+  "refetchedLyricAt": "2026-10-22T22:49:44+00:00"
 }

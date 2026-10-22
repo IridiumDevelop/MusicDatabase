@@ -2,96 +2,369 @@
 # 来源：各歌曲文件夹 info.json 里的 picOk / lrcOk（archive 软失败时写入）
 # 列（TAB 分隔）：folder  kind(cover|lyric)  reason  attempts  lastAttempt  url
 # attempts 达到上限后不再重试，条目保留在此供人工排查
-7-陈奕迅	lyric	no_url	0		
 99_-Jin _ 大柯	cover	no_url	0		
 99_-Jin _ 大柯	lyric	no_url	0		
-Faded-Alan Walker	lyric	no_url	0		
-Falling You-曾可妮_都智文	lyric	no_url	0		
-Hold the Light（冠以破碎之名）漫剧配乐-CY7	lyric	no_url	0		
+A计划-小蓝背心	cover	no_url	0		
+A计划-小蓝背心	lyric	no_url	0		
+Just let it go (就忘了吧英文版)-七元	cover	no_url	0		
+Just let it go (就忘了吧英文版)-七元	lyric	no_url	0		
 Natural-Imagine Dragons	cover	no_url	0		
 Natural-Imagine Dragons	lyric	no_url	0		
-Shape of You-Ed Sheeran	lyric	no_url	0		
+Neverland-黄霄雲	cover	no_url	0		
+Neverland-黄霄雲	lyric	no_url	0		
+Ring Ring Ring-不是花火呀	cover	no_url	0		
+Ring Ring Ring-不是花火呀	lyric	no_url	0		
+Slowly-yihuik苡慧	cover	no_url	0		
+Slowly-yihuik苡慧	lyric	no_url	0		
+Will We Ever (Slowed)-MIKS	cover	no_url	0		
+Will We Ever (Slowed)-MIKS	lyric	no_url	0		
+一起去风里吧-小蓝背心	cover	no_url	0		
+一起去风里吧-小蓝背心	lyric	no_url	0		
+丁达尔现象-小蓝背心	cover	no_url	0		
+丁达尔现象-小蓝背心	lyric	no_url	0		
+万年星光-Lorien	cover	no_url	0		
+万年星光-Lorien	lyric	no_url	0		
+万物爱语-小蓝背心	cover	no_url	0		
+万物爱语-小蓝背心	lyric	no_url	0		
 不可一世-杨冰怡	cover	no_url	0		
 不可一世-杨冰怡	lyric	no_url	0		
 不晚-小蓝背心 _ 三点水	cover	no_url	0		
 不晚-小蓝背心 _ 三点水	lyric	no_url	0		
 不知所起-小蓝背心	cover	no_url	0		
 不知所起-小蓝背心	lyric	no_url	0		
-九万字-黄诗扶	lyric	no_url	0		
+不落幕的夏天 (心跳版)-小蓝背心	cover	no_url	0		
+不落幕的夏天 (心跳版)-小蓝背心	lyric	no_url	0		
+乖-Ssweetxin_	cover	no_url	0		
+乖-Ssweetxin_	lyric	no_url	0		
+乘风向你-小蓝背心	cover	no_url	0		
+乘风向你-小蓝背心	lyric	no_url	0		
+乘风远行-邢艺苗 _ 音药配方	cover	no_url	0		
+乘风远行-邢艺苗 _ 音药配方	lyric	no_url	0		
+人海经过-小蓝背心	cover	no_url	0		
+人海经过-小蓝背心	lyric	no_url	0		
+人间芳菲-音阙诗听 _ 王梓钰	cover	no_url	0		
+人间芳菲-音阙诗听 _ 王梓钰	lyric	no_url	0		
 从那天起-有声有社	cover	no_url	0		
 从那天起-有声有社	lyric	no_url	0		
-会吗-刘可以	lyric	no_url	0		
-光影和你 (Live)-范茹	lyric	no_url	0		
-关于你的-很美味	lyric	no_url	0		
-再见，少年-冯提莫	lyric	no_url	0		
+会开花的云-王樾安	cover	no_url	0		
+会开花的云-王樾安	lyric	no_url	0		
+你是我的微风-史一	cover	no_url	0		
+你是我的微风-史一	lyric	no_url	0		
+你曾逆光而来-小蓝背心 _ 凯万K1inz	cover	no_url	0		
+你曾逆光而来-小蓝背心 _ 凯万K1inz	lyric	no_url	0		
+你比爱走得匆匆-小蓝背心	cover	no_url	0		
+你比爱走得匆匆-小蓝背心	lyric	no_url	0		
+你记得的话-赵静怡	cover	no_url	0		
+你记得的话-赵静怡	lyric	no_url	0		
+做自己的光，不需要太亮-善宇	cover	no_url	0		
+做自己的光，不需要太亮-善宇	lyric	no_url	0		
+做自己的月亮-小蓝背心	cover	no_url	0		
+做自己的月亮-小蓝背心	lyric	no_url	0		
+光影和你-黎林添娇 _ 范茹	cover	no_url	0		
+光影和你-黎林添娇 _ 范茹	lyric	no_url	0		
+再次与你同行-熊大 _ 熊二 _ 光头强	cover	no_url	0		
+再次与你同行-熊大 _ 熊二 _ 光头强	lyric	no_url	0		
+再见深海 (微亮的瞬间)-唐汉霄	cover	no_url	0		
+再见深海 (微亮的瞬间)-唐汉霄	lyric	no_url	0		
+写忆-茶二娘	cover	no_url	0		
+写忆-茶二娘	lyric	no_url	0		
 写给山海的告白-小蓝背心 _ 飞行工作室	cover	no_url	0		
 写给山海的告白-小蓝背心 _ 飞行工作室	lyric	no_url	0		
-刀马旦-李玟_周杰伦	lyric	no_url	0		
+冬愿-司南	cover	no_url	0		
+冬愿-司南	lyric	no_url	0		
 刚好风吹过-小蓝背心	cover	no_url	0		
 刚好风吹过-小蓝背心	lyric	no_url	0		
 初冬的秘密-小蓝背心	cover	no_url	0		
 初冬的秘密-小蓝背心	lyric	no_url	0		
 别念旧-有声有社	cover	no_url	0		
 别念旧-有声有社	lyric	no_url	0		
-十九岁的一天-杨紫怡	lyric	no_url	0		
+加糖拿铁-单循	cover	no_url	0		
+加糖拿铁-单循	lyric	no_url	0		
+化作晚风与你相拥-尹昔眠 _ 曹子白	cover	no_url	0		
+化作晚风与你相拥-尹昔眠 _ 曹子白	lyric	no_url	0		
+北京东路的日子 (毕业合唱版)-九三 _ 浅影阿	cover	no_url	0		
+北京东路的日子 (毕业合唱版)-九三 _ 浅影阿	lyric	no_url	0		
 半熟半生-小田音乐社 _ 尹昔眠	cover	no_url	0		
 半熟半生-小田音乐社 _ 尹昔眠	lyric	no_url	0		
-吹梦到西洲-恋恋故人难_黄诗扶_王敬轩（妖扬）	lyric	no_url	0		
-吹海风-冯提莫	lyric	no_url	0		
+去有风的地方-郁可唯	cover	no_url	0		
+去有风的地方-郁可唯	lyric	no_url	0		
+可能-李怡然同学	cover	no_url	0		
+可能-李怡然同学	lyric	no_url	0		
+四季变迁-夏婉安	cover	no_url	0		
+四季变迁-夏婉安	lyric	no_url	0		
+因你存在-陈卓璇	cover	no_url	0		
+因你存在-陈卓璇	lyric	no_url	0		
+坠入云海-葡萄籽	cover	no_url	0		
+坠入云海-葡萄籽	lyric	no_url	0		
+夏夜的风-树影叶魅	cover	no_url	0		
+夏夜的风-树影叶魅	lyric	no_url	0		
+夏日出逃-九三	cover	no_url	0		
+夏日出逃-九三	lyric	no_url	0		
+多想做一天小朋友-陈卓璇	cover	no_url	0		
+多想做一天小朋友-陈卓璇	lyric	no_url	0		
+多期待-程响	cover	no_url	0		
+多期待-程响	lyric	no_url	0		
+大暑-音阙诗听 _ 李佳思	cover	no_url	0		
+大暑-音阙诗听 _ 李佳思	lyric	no_url	0		
+天知道-苏晗	cover	no_url	0		
+天知道-苏晗	lyric	no_url	0		
+奔赴星空-尹昔眠	cover	no_url	0		
+奔赴星空-尹昔眠	lyric	no_url	0		
 奶茶少女-有声有社	cover	no_url	0		
 奶茶少女-有声有社	lyric	no_url	0		
-小河淌水(云南民歌)-彭丽媛	lyric	no_url	0		
-小河淌水-谭晶	lyric	no_url	0		
+她在风里等-木子琪 _ 汐音社	cover	no_url	0		
+她在风里等-木子琪 _ 汐音社	lyric	no_url	0		
+如一-不是花火呀 _ 小田音乐社	cover	no_url	0		
+如一-不是花火呀 _ 小田音乐社	lyric	no_url	0		
+如约-苏晗	cover	no_url	0		
+如约-苏晗	lyric	no_url	0		
+寄明月-SING女团	cover	no_url	0		
+寄明月-SING女团	lyric	no_url	0		
+寒露-音阙诗听 _ 赵方婧	cover	no_url	0		
+寒露-音阙诗听 _ 赵方婧	lyric	no_url	0		
+察觉-音格概念 _ 逸霄	cover	no_url	0		
+察觉-音格概念 _ 逸霄	lyric	no_url	0		
+对准镜头-小蓝背心	cover	no_url	0		
+对准镜头-小蓝背心	lyric	no_url	0		
 就是爱(This is Love)-小蓝背心	cover	no_url	0		
 就是爱(This is Love)-小蓝背心	lyric	no_url	0		
-屋顶-周杰伦_温岚_吴宗宪	lyric	no_url	0		
-属于你-很美味	lyric	no_url	0		
+年少的脸-绝世小雪琪	cover	no_url	0		
+年少的脸-绝世小雪琪	lyric	no_url	0		
+当你 (Beat版)-Zxxy	cover	no_url	0		
+当你 (Beat版)-Zxxy	lyric	no_url	0		
+微小的瞬间-可能是雨雨	cover	no_url	0		
+微小的瞬间-可能是雨雨	lyric	no_url	0		
+微风与你-小蓝背心	cover	no_url	0		
+微风与你-小蓝背心	lyric	no_url	0		
+微风轻起-南栖	cover	no_url	0		
+微风轻起-南栖	lyric	no_url	0		
+心动引力-二少君	cover	no_url	0		
+心动引力-二少君	lyric	no_url	0		
+心形氧气-张筛子 _ 叶匡衡	cover	no_url	0		
+心形氧气-张筛子 _ 叶匡衡	lyric	no_url	0		
+心悦诚服-新乐尘符	cover	no_url	0		
+心悦诚服-新乐尘符	lyric	no_url	0		
+心愿便利贴-王欣宇	cover	no_url	0		
+心愿便利贴-王欣宇	lyric	no_url	0		
 总会懂-子非鱼	cover	no_url	0		
 总会懂-子非鱼	lyric	no_url	0		
 恋习圆舞曲-林子琪	cover	no_url	0		
 恋习圆舞曲-林子琪	lyric	no_url	0		
-想你就写信 (Live)-周杰伦_李硕_张鑫	lyric	no_url	0		
+恋爱叮咚 (Love Dingdong)-很美味	cover	no_url	0		
+恋爱叮咚 (Love Dingdong)-很美味	lyric	no_url	0		
+恋爱告急-鞠婧祎	cover	no_url	0		
+恋爱告急-鞠婧祎	lyric	no_url	0		
+惊蛰-音阙诗听 _ 王梓钰	cover	no_url	0		
+惊蛰-音阙诗听 _ 王梓钰	lyric	no_url	0		
 愛唄~since 2007~ (爱歌~since 2007~)-whiteeeen (ホワイティーン)	cover	no_url	0		
 愛唄~since 2007~ (爱歌~since 2007~)-whiteeeen (ホワイティーン)	lyric	no_url	0		
 我不懂-有声有社	cover	no_url	0		
 我不懂-有声有社	lyric	no_url	0		
-我的一个道姑朋友-双笙（陈元汐）	lyric	no_url	0		
-我的一个道姑朋友-程嘉敏	lyric	no_url	0		
+我想我会-尹露浠	cover	no_url	0		
+我想我会-尹露浠	lyric	no_url	0		
+我期待的不是雪 (而是有你的冬天)-张妙格	cover	no_url	0		
+我期待的不是雪 (而是有你的冬天)-张妙格	lyric	no_url	0		
+所念皆可期-土土不土啊	cover	no_url	0		
+所念皆可期-土土不土啊	lyric	no_url	0		
+把想念写进歌里-尹昔眠	cover	no_url	0		
+把想念写进歌里-尹昔眠	lyric	no_url	0		
+把未来点亮-尹昔眠	cover	no_url	0		
+把未来点亮-尹昔眠	lyric	no_url	0		
+拾光-陈卓璇	cover	no_url	0		
+拾光-陈卓璇	lyric	no_url	0		
+携风予你-小蓝背心	cover	no_url	0		
+携风予你-小蓝背心	lyric	no_url	0		
+故人归-黄霄雲	cover	no_url	0		
+故人归-黄霄雲	lyric	no_url	0		
+敏感话题-姚晓棠	cover	no_url	0		
+敏感话题-姚晓棠	lyric	no_url	0		
+新学季-SNH48	cover	no_url	0		
+新学季-SNH48	lyric	no_url	0		
+无人之岛-任然	cover	no_url	0		
+无人之岛-任然	lyric	no_url	0		
+无人海-苏晗	cover	no_url	0		
+无人海-苏晗	lyric	no_url	0		
+无解-任然	cover	no_url	0		
+无解-任然	lyric	no_url	0		
+无解-傅梦彤	cover	no_url	0		
+无解-傅梦彤	lyric	no_url	0		
+既视感-冯提莫	cover	no_url	0		
+既视感-冯提莫	lyric	no_url	0		
+日落与花火-谜兔 _ iFM	cover	no_url	0		
+日落与花火-谜兔 _ iFM	lyric	no_url	0		
+时光森林-李昕融 _ 叶嘉	cover	no_url	0		
+时光森林-李昕融 _ 叶嘉	lyric	no_url	0		
+时间流沙-谜兔	cover	no_url	0		
+时间流沙-谜兔	lyric	no_url	0		
+时间独白-弦子	cover	no_url	0		
+时间独白-弦子	lyric	no_url	0		
 星与海-小蓝背心	cover	no_url	0		
 星与海-小蓝背心	lyric	no_url	0		
 星云流浪-小蓝背心	cover	no_url	0		
 星云流浪-小蓝背心	lyric	no_url	0		
+星夏-小蓝背心	cover	no_url	0		
+星夏-小蓝背心	lyric	no_url	0		
+星月糖-黎林添娇	cover	no_url	0		
+星月糖-黎林添娇	lyric	no_url	0		
+星河入海-尹昔眠	cover	no_url	0		
+星河入海-尹昔眠	lyric	no_url	0		
+星河号角-尹昔眠	cover	no_url	0		
+星河号角-尹昔眠	lyric	no_url	0		
+星空与你-小蓝背心	cover	no_url	0		
+星空与你-小蓝背心	lyric	no_url	0		
+星空之间-双笙 (陈元汐)	cover	no_url	0		
+星空之间-双笙 (陈元汐)	lyric	no_url	0		
+星空便利店-树影叶魅	cover	no_url	0		
+星空便利店-树影叶魅	lyric	no_url	0		
+星空飞行-小蓝背心	cover	no_url	0		
+星空飞行-小蓝背心	lyric	no_url	0		
+春夏秋冬-蓝心羽	cover	no_url	0		
+春夏秋冬-蓝心羽	lyric	no_url	0		
+昨日少年-大柯	cover	no_url	0		
+昨日少年-大柯	lyric	no_url	0		
+是对爱的渴望-房东的猫	cover	no_url	0		
+是对爱的渴望-房东的猫	lyric	no_url	0		
 晚风吹过落日海-小蓝背心	cover	no_url	0		
 晚风吹过落日海-小蓝背心	lyric	no_url	0		
+晚风快递-蓝心羽	cover	no_url	0		
+晚风快递-蓝心羽	lyric	no_url	0		
+最暖的忧伤-田馥甄	cover	no_url	0		
+最暖的忧伤-田馥甄	lyric	no_url	0		
+最美年纪遇见你-小蓝背心	cover	no_url	0		
+最美年纪遇见你-小蓝背心	lyric	no_url	0		
+月亮会奔向你-小田音乐社 _ 尹昔眠	cover	no_url	0		
+月亮会奔向你-小田音乐社 _ 尹昔眠	lyric	no_url	0		
+有形的翅膀-张韶涵	cover	no_url	0		
+有形的翅膀-张韶涵	lyric	no_url	0		
+有话没说-李佳欢 _ 卓振声	cover	no_url	0		
+有话没说-李佳欢 _ 卓振声	lyric	no_url	0		
+未知的远方-封茗囧菌	cover	no_url	0		
+未知的远方-封茗囧菌	lyric	no_url	0		
+来不及告别-一只白羊	cover	no_url	0		
+来不及告别-一只白羊	lyric	no_url	0		
 枕边童话-小田音乐社 _ 傲七爷(江偌绮)	cover	no_url	0		
 枕边童话-小田音乐社 _ 傲七爷(江偌绮)	lyric	no_url	0		
+梁上燕-大柯	cover	no_url	0		
+梁上燕-大柯	lyric	no_url	0		
 梦境之外-段奥娟	cover	no_url	0		
 梦境之外-段奥娟	lyric	no_url	0		
+梦境海-袁小葳 _ 许成成	cover	no_url	0		
+梦境海-袁小葳 _ 许成成	lyric	no_url	0		
+梦的曙光-王梓钰	cover	no_url	0		
+梦的曙光-王梓钰	lyric	no_url	0		
 棉花糖-Sasablue	cover	no_url	0		
 棉花糖-Sasablue	lyric	no_url	0		
-沉溺 (你让我的心不再结冰）-邹沛沛_Pank	lyric	no_url	0		
-沉溺(双女主版)-许知夏_甜Tiannnn	lyric	no_url	0		
+每朵花都会盛开-爱朵女孩	cover	no_url	0		
+每朵花都会盛开-爱朵女孩	lyric	no_url	0		
+清明-音阙诗听 _ 李佳思	cover	no_url	0		
+清明-音阙诗听 _ 李佳思	lyric	no_url	0		
+渊海-单循	cover	no_url	0		
+渊海-单循	lyric	no_url	0		
+温暖风-李怡然同学	cover	no_url	0		
+温暖风-李怡然同学	lyric	no_url	0		
+渺小的你-九三	cover	no_url	0		
+渺小的你-九三	lyric	no_url	0		
+湫-大柯	cover	no_url	0		
+湫-大柯	lyric	no_url	0		
+漫长的告白-双笙 (陈元汐)	cover	no_url	0		
+漫长的告白-双笙 (陈元汐)	lyric	no_url	0		
+烟火向星辰 (所愿皆成真)-陈小满	cover	no_url	0		
+烟火向星辰 (所愿皆成真)-陈小满	lyric	no_url	0		
+烟火坠落-黎汐x	cover	no_url	0		
+烟火坠落-黎汐x	lyric	no_url	0		
+焰火-周深	cover	no_url	0		
+焰火-周深	lyric	no_url	0		
+爱人请签收-尹昔眠	cover	no_url	0		
+爱人请签收-尹昔眠	lyric	no_url	0		
 爱你-云汐	cover	no_url	0		
 爱你-云汐	lyric	no_url	0		
 爱你-大柯	cover	no_url	0		
 爱你-大柯	lyric	no_url	0		
-空心 (Live)-冯提莫	lyric	no_url	0		
+白玫瑰与红玫瑰-赵希予	cover	no_url	0		
+白玫瑰与红玫瑰-赵希予	lyric	no_url	0		
+白船-Ssweetxin_	cover	no_url	0		
+白船-Ssweetxin_	lyric	no_url	0		
+百花香-魏新雨	cover	no_url	0		
+百花香-魏新雨	lyric	no_url	0		
+看到风-冯提莫	cover	no_url	0		
+看到风-冯提莫	lyric	no_url	0		
+破茧-张韶涵	cover	no_url	0		
+破茧-张韶涵	lyric	no_url	0		
+秋色入画轴-尹昔眠	cover	no_url	0		
+秋色入画轴-尹昔眠	lyric	no_url	0		
+秘密日记-黄霄雲	cover	no_url	0		
+秘密日记-黄霄雲	lyric	no_url	0		
+穿越时空拥抱你-陈子晴	cover	no_url	0		
+穿越时空拥抱你-陈子晴	lyric	no_url	0		
+立冬-音阙诗听 _ 赵方婧	cover	no_url	0		
+立冬-音阙诗听 _ 赵方婧	lyric	no_url	0		
+立夏-音阙诗听 _ 昆玉	cover	no_url	0		
+立夏-音阙诗听 _ 昆玉	lyric	no_url	0		
+第二星空-陈子晴	cover	no_url	0		
+第二星空-陈子晴	lyric	no_url	0		
+红昭愿-音阙诗听	cover	no_url	0		
+红昭愿-音阙诗听	lyric	no_url	0		
 约好-双笙 (陈元汐)	cover	no_url	0		
 约好-双笙 (陈元汐)	lyric	no_url	0		
+终于轮到我恋爱了-许艺娜	cover	no_url	0		
+终于轮到我恋爱了-许艺娜	lyric	no_url	0		
+给不被爱的孩子和我-房东的猫	cover	no_url	0		
+给不被爱的孩子和我-房东的猫	lyric	no_url	0		
+给你-蓝心羽	cover	no_url	0		
+给你-蓝心羽	lyric	no_url	0		
 若等三旬-贺子玲	cover	no_url	0		
 若等三旬-贺子玲	lyric	no_url	0		
+落日飞鸟-夏浅澈	cover	no_url	0		
+落日飞鸟-夏浅澈	lyric	no_url	0		
+落海-任然	cover	no_url	0		
+落海-任然	lyric	no_url	0		
 蜜柚恋-雷米	cover	no_url	0		
 蜜柚恋-雷米	lyric	no_url	0		
-蝴蝶-洛天依_小v	lyric	no_url	0		
+西楼别序-尹昔眠 _ 小田音乐社	cover	no_url	0		
+西楼别序-尹昔眠 _ 小田音乐社	lyric	no_url	0		
+诀爱-Faye 詹雯婷	cover	no_url	0		
+诀爱-Faye 詹雯婷	lyric	no_url	0		
+谢谢爱过-冯提莫	cover	no_url	0		
+谢谢爱过-冯提莫	lyric	no_url	0		
+贩卖孤寂-傅梦彤	cover	no_url	0		
+贩卖孤寂-傅梦彤	lyric	no_url	0		
 走一走-有声有社	cover	no_url	0		
 走一走-有声有社	lyric	no_url	0		
-迷路-冯提莫	lyric	no_url	0		
+迷雾中-糯米Nomi	cover	no_url	0		
+迷雾中-糯米Nomi	lyric	no_url	0		
+追落日看银河-尹昔眠	cover	no_url	0		
+追落日看银河-尹昔眠	lyric	no_url	0		
+逆世界-黄霄雲	cover	no_url	0		
+逆世界-黄霄雲	lyric	no_url	0		
 逍遥游-有声有社	cover	no_url	0		
 逍遥游-有声有社	lyric	no_url	0		
 那些年-Uu (刘梦妤)	cover	no_url	0		
 那些年-Uu (刘梦妤)	lyric	no_url	0		
-闪烁之光 (手游主题曲)-冯提莫	lyric	no_url	0		
-雨季限定-姚佳顺子	lyric	no_url	0		
-青花瓷-刘芳	lyric	no_url	0		
+那男孩还好吗-Uu (刘梦妤)	cover	no_url	0		
+那男孩还好吗-Uu (刘梦妤)	lyric	no_url	0		
+银河栈道-顾妍	cover	no_url	0		
+银河栈道-顾妍	lyric	no_url	0		
+银河飞鸟-赵希予	cover	no_url	0		
+银河飞鸟-赵希予	lyric	no_url	0		
+陨落-不是花火呀	cover	no_url	0		
+陨落-不是花火呀	lyric	no_url	0		
+陪你奇奇怪怪 陪你可可爱爱-爱朵女孩	cover	no_url	0		
+陪你奇奇怪怪 陪你可可爱爱-爱朵女孩	lyric	no_url	0		
+雨季-不是花火呀	cover	no_url	0		
+雨季-不是花火呀	lyric	no_url	0		
+雨过天晴-虞书欣	cover	no_url	0		
+雨过天晴-虞书欣	lyric	no_url	0		
+零点-KeyKey	cover	no_url	0		
+零点-KeyKey	lyric	no_url	0		
+青空-冯提莫	cover	no_url	0		
+青空-冯提莫	lyric	no_url	0		
 风吹故里-小蓝背心	cover	no_url	0		
 风吹故里-小蓝背心	lyric	no_url	0		
+风的话-陈卓璇	cover	no_url	0		
+风的话-陈卓璇	lyric	no_url	0		
+风里面-单循	cover	no_url	0		
+风里面-单循	lyric	no_url	0		
+飞鸟和蝉-任然	cover	no_url	0		
+飞鸟和蝉-任然	lyric	no_url	0		
+鲸落与海-陈奕楠	cover	no_url	0		
+鲸落与海-陈奕楠	lyric	no_url	0		
