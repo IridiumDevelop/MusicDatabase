@@ -1,0 +1,23 @@
+{
+  "title": "Love Story",
+  "author": "Taylor Swift",
+  "pic": "https://p3.music.126.net/_MuljhY6p2qWrK8HXRSwOA==/109951169115708224.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261022131629/061fca3c66a9c65b883e2c415358e371/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/31817672069/e026/af8a/3fe8/f04fce26fd46d7a1126bd4d44c5e5ba4.mp3?vuutv=1PUHZn5qzH55p5DNp/SJZRvrcCztVHfE3ATeAmlneojLE3Aqhd5LnNTh1f/vj1aQgNJlzI2ciLvA7+1hzPiVQ4IlFsp44xkWAgXr95oDYH4=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=26896129",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "26896129",
+  "server": "",
+  "duration": 235,
+  "reportedAt": "2026-10-22T04:51:29.382Z",
+  "archivedAt": "2026-10-22T04:51:55.663792+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

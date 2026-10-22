@@ -1,0 +1,23 @@
+{
+  "title": "有话没说",
+  "author": "李佳欢 / Sherman Zhuo",
+  "pic": "https://p3.music.126.net/BFJHm0eJkD7xX6EQg7i0Gw==/109951170601073077.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261022131625/568a1558008561e2b266ce7f1bdcc013/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/58676247757/7f55/a524/a5ff/976298edf6f8c8573a810da17e4dc367.mp3?vuutv=cNWU+fu5CpRu92odVHu/F89DLnc9cQ6QEQlMCwcl5MgIyRURytWmFzLvIoORh9N5hpudgfn67ULP+Pwdj6fbAZTByNnWQsyXT1s0XqQI8fg=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2683352561",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2683352561",
+  "server": "",
+  "duration": 266,
+  "reportedAt": "2026-10-22T04:51:25.844Z",
+  "archivedAt": "2026-10-22T04:52:04.883562+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
