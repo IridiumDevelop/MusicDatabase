@@ -1,0 +1,23 @@
+{
+  "title": "念",
+  "author": "大柯 / 音谋论",
+  "pic": "https://p3.music.126.net/q0gvDrn06Sjo0ren6-093Q==/109951165038384245.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m7.music.126.net/20261023000232/2a92572173b89db7cae23bb3c279179b/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/2571798003/1361/0a9c/7ad7/76cf995fb21285f2f5f483e26a61a62f.mp3?vuutv=SOy4VHvGJb3J4brC5bbKAkoYybY+HZEmQ5W7c5bfSkXT5QNuaLhxTRsLRIVsrmpR0zAxWhIGtj7sFO7Q3HVO/wnz+1Xy9NIOQY+4BQ0kMyI=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1453130197",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1453130197",
+  "server": "",
+  "duration": 223,
+  "reportedAt": "2026-10-22T15:37:33.312Z",
+  "archivedAt": "2026-10-22T15:38:28.630176+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
