@@ -1,0 +1,23 @@
+{
+  "title": "呼吸和你",
+  "author": "新乐尘符 / 单琳惠",
+  "pic": "https://p3.music.126.net/SBUXQDdhySU5hpcTezDuag==/109951165183554927.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://vercel-meting-api.musifei.org/api?server=netease&type=url&id=1466800464",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1466800464",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1466800464",
+  "server": "",
+  "duration": 197,
+  "reportedAt": "2026-10-22T04:01:50.873Z",
+  "archivedAt": "2026-10-22T04:02:25.157883+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

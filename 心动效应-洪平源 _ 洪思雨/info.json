@@ -1,0 +1,23 @@
+{
+  "title": "心动效应",
+  "author": "洪平源 / 洪思雨",
+  "pic": "https://p4.music.126.net/epwOUZ5tZUAw4ZitA5tgdA==/109951165188349087.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://vercel-meting-api.musifei.org/api?server=netease&type=url&id=1467223403",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1467223403",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1467223403",
+  "server": "",
+  "duration": 188,
+  "reportedAt": "2026-10-22T04:01:58.862Z",
+  "archivedAt": "2026-10-22T04:02:31.275107+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

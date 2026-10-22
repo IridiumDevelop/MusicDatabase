@@ -1,0 +1,23 @@
+{
+  "title": "恋爱蜜语",
+  "author": "饭思思",
+  "pic": "https://p4.music.126.net/x2DhOiQZazCA3yaNMeQpPw==/109951171867648748.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://vercel-meting-api.musifei.org/api?server=netease&type=url&id=2736320360",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2736320360",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2736320360",
+  "server": "",
+  "duration": 209,
+  "reportedAt": "2026-10-22T04:01:34.765Z",
+  "archivedAt": "2026-10-22T04:02:35.350851+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

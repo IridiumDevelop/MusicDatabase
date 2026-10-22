@@ -1,0 +1,23 @@
+{
+  "title": "以光之名",
+  "author": "道长 / 白阀 / 指缝℡ / 浔一",
+  "pic": "https://p3.music.126.net/TjRedFGw8Z5LQcFjQq8pCQ==/109951168621446732.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://vercel-meting-api.musifei.org/api?server=netease&type=url&id=2048437474",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2048437474",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2048437474",
+  "server": "",
+  "duration": 212,
+  "reportedAt": "2026-10-22T04:01:32.653Z",
+  "archivedAt": "2026-10-22T04:02:20.946285+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

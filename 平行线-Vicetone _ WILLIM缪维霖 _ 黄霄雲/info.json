@@ -1,0 +1,23 @@
+{
+  "title": "平行线",
+  "author": "Vicetone / WILLIM缪维霖 / 黄霄雲",
+  "pic": "https://p3.music.126.net/9-RQM41r6HLwfHrJMYpULQ==/109951173628326124.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://vercel-meting-api.musifei.org/api?server=netease&type=url&id=1864898927",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1864898927",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1864898927",
+  "server": "",
+  "duration": 165,
+  "reportedAt": "2026-10-22T04:01:41.064Z",
+  "archivedAt": "2026-10-22T04:02:27.393107+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

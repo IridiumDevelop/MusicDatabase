@@ -1,0 +1,23 @@
+{
+  "title": "陪你奇奇怪怪 陪你可可爱爱",
+  "author": "元气少女",
+  "pic": "https://p3.music.126.net/Mt2KCrvH7HZJhC4ykjohgQ==/109951167838943843.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://vercel-meting-api.musifei.org/api?server=netease&type=url&id=1977863119",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1977863119",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1977863119",
+  "server": "",
+  "duration": 170,
+  "reportedAt": "2026-10-22T04:01:36.144Z",
+  "archivedAt": "2026-10-22T04:02:40.511517+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
