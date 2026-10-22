@@ -1,0 +1,23 @@
+{
+  "title": "诀爱 (Live)",
+  "author": "Faye 詹雯婷 / 张远",
+  "pic": "https://p4.music.126.net/NiqcIeWTl-xfVYUHApv9CQ==/109951169005623665.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261023000552/0a8184a53af7eafc0103eb93000cf038/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/20699100661/ca58/8fb6/0ae5/6e8718fe0d88de5e97f6d3b2fa5a20e2.mp3?vuutv=6s/8wueO9XNj3oYOkNbwr+jHj8CHYgFAKEPwlPWIJHcLKh11m9u2fFl1N97V2o0G7g9Lax6azxJqZVjrDJXXCgjHgJCtOLdf4yiWbfpxWxw=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1990367714",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1990367714",
+  "server": "",
+  "duration": 197,
+  "reportedAt": "2026-10-22T15:40:53.688Z",
+  "archivedAt": "2026-10-22T15:41:28.404132+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
