@@ -1,0 +1,23 @@
+{
+  "title": "情诗",
+  "author": "小蓝背心",
+  "pic": "https://p3.music.126.net/bXMbU0wI1lGll3DLUPZGDg==/109951173694728565.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261023000337/01f0f7c8e6be1fcda3b1415ffb8700ce/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14431964190/8448/776b/e915/b17b3b297aca56d971aea8b96bfba5cb.mp3?vuutv=pNYHMS9raXhjbCXxqzhyiH14SOoC52g/uEJ9LenkkNcFBoGAJpP58ybfkkK6XVMnt/pNtXH+0Tvb4TPK7cCl7TNYUybulQh6k53BOu5bOSM=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1946802436",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1946802436",
+  "server": "",
+  "duration": 232,
+  "reportedAt": "2026-10-22T15:38:38.359Z",
+  "archivedAt": "2026-10-22T15:39:13.147432+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "南半球与北海道",
+  "author": "范倪Liu",
+  "pic": "https://p3.music.126.net/JLJp2tVO743LUZp4DL94bw==/109951166535541790.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261023000344/0197c2fabcde20703dec368ad04ad4e7/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34542151816/1e5b/a629/c1be/bbc49f2d2b7044de352a6d5a03d79c1c.mp3?vuutv=OvWY97GOvAfkAitli76WDQ2rWmBWXjZBGKwXOOy1ztwIDy1PapY7oQPmP9yepKPyuETgA3PpGBnzMgtExfTXFyZrOv5/s606E8Ite0HJCA0=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1888215863",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1888215863",
+  "server": "",
+  "duration": 210,
+  "reportedAt": "2026-10-22T15:38:45.795Z",
+  "archivedAt": "2026-10-22T15:39:09.447329+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
