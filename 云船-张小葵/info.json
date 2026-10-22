@@ -1,0 +1,23 @@
+{
+  "title": "云船",
+  "author": "张小葵",
+  "pic": "https://p4.music.126.net/i53vKXDUolA03qhoJcsunQ==/109951171388414800.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261022131436/d6d5b251c51591a5a069962efd3f2040/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60928227799/c8df/efe5/0a7b/3917fa3a84498142b69fda298a596122.mp3?vuutv=ieBvalalmETXRWF5Q0Jf+5oBpSw2Sn0AqJFyUoSu4sCS/enaLgxShI1+snQX8p7VvRg2Q0bgRHG65cFUSZ7a9p8u+hGD9kYJ5MWu5ohMgaA=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2721446057",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2721446057",
+  "server": "",
+  "duration": 246,
+  "reportedAt": "2026-10-22T04:49:36.825Z",
+  "archivedAt": "2026-10-22T04:50:02.500190+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
