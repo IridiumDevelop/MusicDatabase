@@ -1,0 +1,23 @@
+{
+  "title": "目及皆是你 (心跳版)",
+  "author": "小蓝背心",
+  "pic": "https://p3.music.126.net/jDTEtAnZiDvfq5iBpLQBRA==/109951166171265193.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261023000148/7aff64a524e6ed10ee67d3f02eec5730/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096493273/1871/cee6/ccc1/de308f267b4ec5b50a437bdcaf1daaf2.mp3?vuutv=jzGRO+TzgCDTVh1psrv4bxwD0YIcT2rrF7+tV6B1lb0hG6tdIUErrzlQtZ10ZgNXf+mQv0sUfq21LBCqPyG8d2rOXtmKXqoFtO8oP5iAtZg=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1860578400",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1860578400",
+  "server": "",
+  "duration": 175,
+  "reportedAt": "2026-10-22T15:36:52.424Z",
+  "archivedAt": "2026-10-22T15:37:19.634270+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
