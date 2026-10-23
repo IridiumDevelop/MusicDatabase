@@ -1,0 +1,23 @@
+{
+  "title": "晚安",
+  "author": "颜人中",
+  "pic": "https://p3.music.126.net/-rC55JsnmEWvafJQsAZaWw==/109951170473693123.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m801.music.126.net/20261023115032/a107beab76de305e41af3a0a9c4a5b7c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096446195/dec8/bf82/b45a/5c91b6bae9dd7d29dcc283633c2e76a4.mp3?vuutv=t1617h6SWRpZTL+H9Gi3F3rCgaNBqWLwmRThUT976Hjzv14djUf6PVqvX0VdC8plQJjpHl0/NCLERO99Jnz5mYGNnUraI8ORkX4K+1vl4QE=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=1359356908",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "1359356908",
+  "server": "",
+  "duration": 289,
+  "reportedAt": "2026-10-23T03:25:34.101Z",
+  "archivedAt": "2026-10-23T03:25:54.123953+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
