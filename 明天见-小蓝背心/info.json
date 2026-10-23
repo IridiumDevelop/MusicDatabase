@@ -1,0 +1,28 @@
+{
+  "title": "明天见",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 201.905,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "明天见-小蓝背心.mp3",
+    "originalSha256": "a780649132f56573aab20070e424f4d5fe936e25ddd7806e5d84155a912c5580"
+  }
+}

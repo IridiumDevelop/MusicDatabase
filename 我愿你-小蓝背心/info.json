@@ -1,0 +1,28 @@
+{
+  "title": "我愿你",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 204.402,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "我愿你-小蓝背心.mp3",
+    "originalSha256": "d5fa2c18d26f34008a6b4e460770601b3c2ffc96fe1b4b9b924dcd0471b3713b"
+  }
+}

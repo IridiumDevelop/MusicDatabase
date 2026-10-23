@@ -1,0 +1,28 @@
+{
+  "title": "True Love",
+  "author": "虞书欣",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 233.453,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "True Love-虞书欣.mp3",
+    "originalSha256": "a33fdcb73fa615796e1d813fd27e066723b0679570baf9052f08404c8efb8778"
+  }
+}

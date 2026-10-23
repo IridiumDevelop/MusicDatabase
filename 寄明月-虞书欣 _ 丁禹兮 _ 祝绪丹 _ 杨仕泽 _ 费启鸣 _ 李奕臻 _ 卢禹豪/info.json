@@ -1,0 +1,28 @@
+{
+  "title": "寄明月",
+  "author": "虞书欣 / 丁禹兮 / 祝绪丹 / 杨仕泽 / 费启鸣 / 李奕臻 / 卢禹豪",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 229.714,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "寄明月-虞书欣&丁禹兮&祝绪丹&杨仕泽&费启鸣&李奕臻&卢禹豪.mp3",
+    "originalSha256": "a46f1bf6f2f047b262b55bafb6021040ee49996bbeec5d39042f7bf4312e0465"
+  }
+}

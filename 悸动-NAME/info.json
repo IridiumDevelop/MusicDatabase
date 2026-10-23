@@ -1,0 +1,28 @@
+{
+  "title": "悸动",
+  "author": "NAME",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 187.508,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "悸动-NAME.mp3",
+    "originalSha256": "19c21aa82ce69f961f918ef9b7a39276ea8e88c90e053b56d3fa5c74c170a2cc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "愈合",
+  "author": "大柯",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 199.385,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "愈合-大柯.mp3",
+    "originalSha256": "370413c73e48ba59020ab4cf48e7b95858b747989753f512f7065b1c491f0f67"
+  }
+}

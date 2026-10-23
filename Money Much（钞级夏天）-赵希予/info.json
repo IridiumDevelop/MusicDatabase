@@ -1,0 +1,28 @@
+{
+  "title": "Money Much（钞级夏天）",
+  "author": "赵希予",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 195.161,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "Money Much（钞级夏天）-赵希予.mp3",
+    "originalSha256": "7db62fdd214c03a432e3bc9259e8b44922ba2ab3e52967335c2deb8cb9c0dc41"
+  }
+}

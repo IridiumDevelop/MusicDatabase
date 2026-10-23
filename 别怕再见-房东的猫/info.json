@@ -1,0 +1,28 @@
+{
+  "title": "别怕再见",
+  "author": "房东的猫",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 261.725,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "别怕再见-房东的猫.mp3",
+    "originalSha256": "48f019d9dff55cc93321be92845de4a1197cf4a1781c6ccfbac6a44d508a2966"
+  }
+}

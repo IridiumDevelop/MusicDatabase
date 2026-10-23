@@ -1,0 +1,28 @@
+{
+  "title": "如果的事（治愈版）",
+  "author": "赵乃吉",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 256.117,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "如果的事（治愈版）-赵乃吉.mp3",
+    "originalSha256": "5ba9599466b1752bf7d53d6edd13d2e6c0f33607ca8d15fa7702f1fb5e8c45db"
+  }
+}

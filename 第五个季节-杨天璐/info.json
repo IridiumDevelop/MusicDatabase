@@ -1,0 +1,28 @@
+{
+  "title": "第五个季节",
+  "author": "杨天璐",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 186.462,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "第五个季节-杨天璐.mp3",
+    "originalSha256": "257e88b06a1b77b8eb747940ebb200ab7a57320764ac69873f75f6ff48882bc0"
+  }
+}

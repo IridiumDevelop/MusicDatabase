@@ -1,0 +1,28 @@
+{
+  "title": "不知不觉",
+  "author": "康子奇",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 239.952,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "不知不觉-康子奇.mp3",
+    "originalSha256": "13f34b3f3cc9598b7e54929ff12ad7c76ced7fbebb83c4f345fb8642092775d6"
+  }
+}

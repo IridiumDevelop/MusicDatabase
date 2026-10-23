@@ -1,0 +1,28 @@
+{
+  "title": "Be My Light",
+  "author": "段奥娟",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 244.615,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "Be My Light-段奥娟.mp3",
+    "originalSha256": "50af40e41ad4f0e9923bb38736a1e488f3625465947b89eb367e385a3b173082"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "我还是想再问你",
+  "author": "于睿迪",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 211.057,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "我还是想再问你-于睿迪.mp3",
+    "originalSha256": "720a40e2921c07a1f06e85343add4a66bfcc12e3fa85de4c67acfe256d184aba"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "像风",
+  "author": "赵希予",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 199.846,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "像风-赵希予.mp3",
+    "originalSha256": "726280ebb6df483f190ce6dbfb0c7a88c10c83e6eee18979bfe0de0c8a472596"
+  }
+}

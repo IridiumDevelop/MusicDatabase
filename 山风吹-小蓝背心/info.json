@@ -1,0 +1,28 @@
+{
+  "title": "山风吹",
+  "author": "小蓝背心",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 183.992,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "山风吹-小蓝背心.mp3",
+    "originalSha256": "d6a7c8b73c81059446f60e5cb766c200ddeb34e4005f1a63211ccd3b5a1023d2"
+  }
+}

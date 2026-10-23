@@ -1,0 +1,28 @@
+{
+  "title": "找到你",
+  "author": "池鱼",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 242.807,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "找到你-池鱼.mp3",
+    "originalSha256": "400605e8d8ed4b2bb7870670e5a3acc544dc6b123d91da3146ec693b7f1dadf8"
+  }
+}

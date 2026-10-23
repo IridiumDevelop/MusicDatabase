@@ -1,0 +1,28 @@
+{
+  "title": "Rainbow",
+  "author": "刘浩存 / 王安宇",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 215.18,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "Rainbow-刘浩存&王安宇.mp3",
+    "originalSha256": "28afa82c3c5ae63064db8386209276e485f06bb6472367584bbc6acfbe33ecba"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "盲盒",
+  "author": "小蓝背心 / 飞行工作室",
+  "pic": "",
+  "picOk": false,
+  "coverError": "no_url",
+  "url": "",
+  "lrc": "",
+  "lrcOk": false,
+  "lyricError": "no_url",
+  "songmid": "",
+  "duration": 206.355,
+  "reportedAt": null,
+  "archivedAt": "2026-10-23T05:03:39.165283+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": null,
+    "lyric": null,
+    "coverEmbedded": false,
+    "tagsWritten": true
+  },
+  "source": {
+    "type": "local_archive",
+    "archive": "Download.zip",
+    "filename": "盲盒-小蓝背心&飞行工作室.mp3",
+    "originalSha256": "4e7d075388a3c6f228610ee2facfd415c7d49c494a7999b55ec3da8e220afc4a"
+  }
+}
