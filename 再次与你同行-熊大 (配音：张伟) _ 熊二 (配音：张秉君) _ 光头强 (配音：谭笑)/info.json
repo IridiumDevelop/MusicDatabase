@@ -1,0 +1,23 @@
+{
+  "title": "再次与你同行",
+  "author": "熊大 (配音：张伟) / 熊二 (配音：张秉君) / 光头强 (配音：谭笑)",
+  "pic": "https://p3.music.126.net/fYUFFw7jDkRM1Fa_nx20nw==/109951169248834783.jpg",
+  "picOk": true,
+  "coverError": null,
+  "url": "https://m701.music.126.net/20261023125804/30f26160758802ba1bc58cf9f4bd965e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/32701385520/9f96/0951/55e9/cd915a64899e8943b9fd3e3cb78aa696.mp3?vuutv=IJVW1LtMmDd54MFENhsI7xdI0MSQyKNM1YAS1ZTsnolwTuCGxY7wabCS2FsYhZ2P4tIF0NltWbY+OeWcpBSXohPG8E+Ccqujkd33y2fmU1s=",
+  "lrc": "https://vercel-meting-api.musifei.org/api?server=netease&type=lrc&id=2116106898",
+  "lrcOk": true,
+  "lyricError": null,
+  "songmid": "2116106898",
+  "server": "",
+  "duration": 241,
+  "reportedAt": "2026-10-23T04:33:05.720Z",
+  "archivedAt": "2026-10-23T04:33:26.568637+00:00",
+  "files": {
+    "audio": "song.mp3",
+    "cover": "cover.jpg",
+    "lyric": "lyric.lrc",
+    "coverEmbedded": true,
+    "tagsWritten": true
+  }
+}
