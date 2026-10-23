@@ -6,16 +6,24 @@
 99_-Jin _ 大柯	lyric	no_url	0		
 A计划-小蓝背心	cover	no_url	0		
 A计划-小蓝背心	lyric	no_url	0		
+Be My Light-段奥娟	cover	no_url	0		
+Be My Light-段奥娟	lyric	no_url	0		
 Just let it go (就忘了吧英文版)-七元	cover	no_url	0		
 Just let it go (就忘了吧英文版)-七元	lyric	no_url	0		
+Money Much（钞级夏天）-赵希予	cover	no_url	0		
+Money Much（钞级夏天）-赵希予	lyric	no_url	0		
 Natural-Imagine Dragons	cover	no_url	0		
 Natural-Imagine Dragons	lyric	no_url	0		
 Neverland-黄霄雲	cover	no_url	0		
 Neverland-黄霄雲	lyric	no_url	0		
+Rainbow-刘浩存 _ 王安宇	cover	no_url	0		
+Rainbow-刘浩存 _ 王安宇	lyric	no_url	0		
 Ring Ring Ring-不是花火呀	cover	no_url	0		
 Ring Ring Ring-不是花火呀	lyric	no_url	0		
 Slowly-yihuik苡慧	cover	no_url	0		
 Slowly-yihuik苡慧	lyric	no_url	0		
+True Love-虞书欣	cover	no_url	0		
+True Love-虞书欣	lyric	no_url	0		
 Will We Ever (Slowed)-MIKS	cover	no_url	0		
 Will We Ever (Slowed)-MIKS	lyric	no_url	0		
 一起去风里吧-小蓝背心	cover	no_url	0		
@@ -30,6 +38,8 @@ Will We Ever (Slowed)-MIKS	lyric	no_url	0
 不可一世-杨冰怡	lyric	no_url	0		
 不晚-小蓝背心 _ 三点水	cover	no_url	0		
 不晚-小蓝背心 _ 三点水	lyric	no_url	0		
+不知不觉-康子奇	cover	no_url	0		
+不知不觉-康子奇	lyric	no_url	0		
 不知所起-小蓝背心	cover	no_url	0		
 不知所起-小蓝背心	lyric	no_url	0		
 不落幕的夏天 (心跳版)-小蓝背心	cover	no_url	0		
@@ -44,6 +54,8 @@ Will We Ever (Slowed)-MIKS	lyric	no_url	0
 人海经过-小蓝背心	lyric	no_url	0		
 人间芳菲-音阙诗听 _ 王梓钰	cover	no_url	0		
 人间芳菲-音阙诗听 _ 王梓钰	lyric	no_url	0		
+人鱼-小蓝背心	cover	no_url	0		
+人鱼-小蓝背心	lyric	no_url	0		
 从那天起-有声有社	cover	no_url	0		
 从那天起-有声有社	lyric	no_url	0		
 会开花的云-王樾安	cover	no_url	0		
@@ -54,12 +66,16 @@ Will We Ever (Slowed)-MIKS	lyric	no_url	0
 你曾逆光而来-小蓝背心 _ 凯万K1inz	lyric	no_url	0		
 你比爱走得匆匆-小蓝背心	cover	no_url	0		
 你比爱走得匆匆-小蓝背心	lyric	no_url	0		
+你的声音-小蓝背心	cover	no_url	0		
+你的声音-小蓝背心	lyric	no_url	0		
 你记得的话-赵静怡	cover	no_url	0		
 你记得的话-赵静怡	lyric	no_url	0		
 做自己的光，不需要太亮-善宇	cover	no_url	0		
 做自己的光，不需要太亮-善宇	lyric	no_url	0		
 做自己的月亮-小蓝背心	cover	no_url	0		
 做自己的月亮-小蓝背心	lyric	no_url	0		
+像风-赵希予	cover	no_url	0		
+像风-赵希予	lyric	no_url	0		
 光影和你-黎林添娇 _ 范茹	cover	no_url	0		
 光影和你-黎林添娇 _ 范茹	lyric	no_url	0		
 再次与你同行-熊大 _ 熊二 _ 光头强	cover	no_url	0		
@@ -78,6 +94,8 @@ Will We Ever (Slowed)-MIKS	lyric	no_url	0
 初冬的秘密-小蓝背心	lyric	no_url	0		
 别念旧-有声有社	cover	no_url	0		
 别念旧-有声有社	lyric	no_url	0		
+别怕再见-房东的猫	cover	no_url	0		
+别怕再见-房东的猫	lyric	no_url	0		
 加糖拿铁-单循	cover	no_url	0		
 加糖拿铁-单循	lyric	no_url	0		
 化作晚风与你相拥-尹昔眠 _ 曹子白	cover	no_url	0		
@@ -116,10 +134,14 @@ Will We Ever (Slowed)-MIKS	lyric	no_url	0
 她在风里等-木子琪 _ 汐音社	lyric	no_url	0		
 如一-不是花火呀 _ 小田音乐社	cover	no_url	0		
 如一-不是花火呀 _ 小田音乐社	lyric	no_url	0		
+如果的事（治愈版）-赵乃吉	cover	no_url	0		
+如果的事（治愈版）-赵乃吉	lyric	no_url	0		
 如约-苏晗	cover	no_url	0		
 如约-苏晗	lyric	no_url	0		
 寄明月-SING女团	cover	no_url	0		
 寄明月-SING女团	lyric	no_url	0		
+寄明月-虞书欣 _ 丁禹兮 _ 祝绪丹 _ 杨仕泽 _ 费启鸣 _ 李奕臻 _ 卢禹豪	cover	no_url	0		
+寄明月-虞书欣 _ 丁禹兮 _ 祝绪丹 _ 杨仕泽 _ 费启鸣 _ 李奕臻 _ 卢禹豪	lyric	no_url	0		
 寒露-音阙诗听 _ 赵方婧	cover	no_url	0		
 寒露-音阙诗听 _ 赵方婧	lyric	no_url	0		
 察觉-音格概念 _ 逸霄	cover	no_url	0		
@@ -128,6 +150,8 @@ Will We Ever (Slowed)-MIKS	lyric	no_url	0
 对准镜头-小蓝背心	lyric	no_url	0		
 就是爱(This is Love)-小蓝背心	cover	no_url	0		
 就是爱(This is Love)-小蓝背心	lyric	no_url	0		
+山风吹-小蓝背心	cover	no_url	0		
+山风吹-小蓝背心	lyric	no_url	0		
 年少的脸-绝世小雪琪	cover	no_url	0		
 年少的脸-绝世小雪琪	lyric	no_url	0		
 当你 (Beat版)-Zxxy	cover	no_url	0		
@@ -146,6 +170,8 @@ Will We Ever (Slowed)-MIKS	lyric	no_url	0
 心悦诚服-新乐尘符	lyric	no_url	0		
 心愿便利贴-王欣宇	cover	no_url	0		
 心愿便利贴-王欣宇	lyric	no_url	0		
+心跳-小蓝背心	cover	no_url	0		
+心跳-小蓝背心	lyric	no_url	0		
 总会懂-子非鱼	cover	no_url	0		
 总会懂-子非鱼	lyric	no_url	0		
 恋习圆舞曲-林子琪	cover	no_url	0		
@@ -154,18 +180,28 @@ Will We Ever (Slowed)-MIKS	lyric	no_url	0
 恋爱叮咚 (Love Dingdong)-很美味	lyric	no_url	0		
 恋爱告急-鞠婧祎	cover	no_url	0		
 恋爱告急-鞠婧祎	lyric	no_url	0		
+悸动-NAME	cover	no_url	0		
+悸动-NAME	lyric	no_url	0		
 惊蛰-音阙诗听 _ 王梓钰	cover	no_url	0		
 惊蛰-音阙诗听 _ 王梓钰	lyric	no_url	0		
+愈合-大柯	cover	no_url	0		
+愈合-大柯	lyric	no_url	0		
 愛唄~since 2007~ (爱歌~since 2007~)-whiteeeen (ホワイティーン)	cover	no_url	0		
 愛唄~since 2007~ (爱歌~since 2007~)-whiteeeen (ホワイティーン)	lyric	no_url	0		
 我不懂-有声有社	cover	no_url	0		
 我不懂-有声有社	lyric	no_url	0		
 我想我会-尹露浠	cover	no_url	0		
 我想我会-尹露浠	lyric	no_url	0		
+我愿你-小蓝背心	cover	no_url	0		
+我愿你-小蓝背心	lyric	no_url	0		
 我期待的不是雪 (而是有你的冬天)-张妙格	cover	no_url	0		
 我期待的不是雪 (而是有你的冬天)-张妙格	lyric	no_url	0		
+我还是想再问你-于睿迪	cover	no_url	0		
+我还是想再问你-于睿迪	lyric	no_url	0		
 所念皆可期-土土不土啊	cover	no_url	0		
 所念皆可期-土土不土啊	lyric	no_url	0		
+找到你-池鱼	cover	no_url	0		
+找到你-池鱼	lyric	no_url	0		
 把想念写进歌里-尹昔眠	cover	no_url	0		
 把想念写进歌里-尹昔眠	lyric	no_url	0		
 把未来点亮-尹昔眠	cover	no_url	0		
@@ -198,6 +234,8 @@ Will We Ever (Slowed)-MIKS	lyric	no_url	0
 时间流沙-谜兔	lyric	no_url	0		
 时间独白-弦子	cover	no_url	0		
 时间独白-弦子	lyric	no_url	0		
+明天见-小蓝背心	cover	no_url	0		
+明天见-小蓝背心	lyric	no_url	0		
 星与海-小蓝背心	cover	no_url	0		
 星与海-小蓝背心	lyric	no_url	0		
 星云流浪-小蓝背心	cover	no_url	0		
@@ -266,6 +304,8 @@ Will We Ever (Slowed)-MIKS	lyric	no_url	0
 渺小的你-九三	lyric	no_url	0		
 湫-大柯	cover	no_url	0		
 湫-大柯	lyric	no_url	0		
+漫长的告白 (温柔版)-陌黎	cover	no_url	0		
+漫长的告白 (温柔版)-陌黎	lyric	no_url	0		
 漫长的告白-双笙 (陈元汐)	cover	no_url	0		
 漫长的告白-双笙 (陈元汐)	lyric	no_url	0		
 烟火向星辰 (所愿皆成真)-陈小满	cover	no_url	0		
@@ -280,12 +320,17 @@ Will We Ever (Slowed)-MIKS	lyric	no_url	0
 爱你-云汐	lyric	no_url	0		
 爱你-大柯	cover	no_url	0		
 爱你-大柯	lyric	no_url	0		
+玻璃糖-冯提莫	cover	no_url	0		
+玻璃糖-冯提莫	lyric	no_url	0		
 白玫瑰与红玫瑰-赵希予	cover	no_url	0		
 白玫瑰与红玫瑰-赵希予	lyric	no_url	0		
 白船-Ssweetxin_	cover	no_url	0		
 白船-Ssweetxin_	lyric	no_url	0		
 百花香-魏新雨	cover	no_url	0		
 百花香-魏新雨	lyric	no_url	0		
+目及皆是你-小蓝背心	cover	URL host/protocol not allowed	1	2026-10-23T22:42:14+00:00	http://p1.music.126.net/jDTEtAnZiDvfq5iBpLQBRA==/109951166171265193.jpg
+盲盒-小蓝背心 _ 飞行工作室	cover	no_url	0		
+盲盒-小蓝背心 _ 飞行工作室	lyric	no_url	0		
 看到风-冯提莫	cover	no_url	0		
 看到风-冯提莫	lyric	no_url	0		
 破茧-张韶涵	cover	no_url	0		
@@ -302,6 +347,8 @@ Will We Ever (Slowed)-MIKS	lyric	no_url	0
 立夏-音阙诗听 _ 昆玉	lyric	no_url	0		
 第二星空-陈子晴	cover	no_url	0		
 第二星空-陈子晴	lyric	no_url	0		
+第五个季节-杨天璐	cover	no_url	0		
+第五个季节-杨天璐	lyric	no_url	0		
 红昭愿-音阙诗听	cover	no_url	0		
 红昭愿-音阙诗听	lyric	no_url	0		
 约好-双笙 (陈元汐)	cover	no_url	0		
